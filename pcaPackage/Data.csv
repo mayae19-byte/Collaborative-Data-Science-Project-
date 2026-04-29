@@ -1,0 +1,830 @@
+Description,"Abundance Ratio: (Control, TatCN) / (Control, None)","Abundance Ratio: (Control, TatCN) / (Control, Vehicle)","Abundance Ratio: (EtOH, Vehicle) / (Control, Vehicle)","Abundance Ratio: (EtOH, TatCN) / (EtOH, None)","Abundance Ratio: (EtOH, Vehicle) / (EtOH, None)","Abundance Ratio: (EtOH, TatCN) / (EtOH, Vehicle)"
+Brain acid soluble protein 1 OS=Rattus norvegicus OX=10116 GN=Basp1 PE=1 SV=2,0.511,0.948,1.139,0.517,0.846,0.594
+SH3 domain-binding glutamic acid-rich-like protein 3 OS=Rattus norvegicus OX=10116 GN=Sh3bgrl3 PE=1 SV=1,0.391,0.334,0.538,0.643,0.737,0.733
+"Ig kappa chain C region, B allele OS=Rattus norvegicus OX=10116 PE=1 SV=1",6.747,1.392,1.857,14.313,14.207,0.768
+Neuromodulin OS=Rattus norvegicus OX=10116 GN=Gap43 PE=1 SV=1,0.454,0.688,0.939,0.525,0.807,0.674
+Peptidyl-prolyl cis-trans isomerase FKBP1A OS=Rattus norvegicus OX=10116 GN=Fkbp1a PE=1 SV=3,0.968,0.676,0.91,0.672,1.178,0.541
+Hemoglobin subunit beta-1 OS=Rattus norvegicus OX=10116 GN=Hbb PE=1 SV=3,3.343,2.169,1.706,3.446,2.261,1.362
+Ig lambda-2 chain C region OS=Rattus norvegicus OX=10116 PE=4 SV=1,9.616,2.009,3.261,22.43,32.546,0.673
+"Actin, cytoplasmic 1 OS=Rattus norvegicus OX=10116 GN=Actb PE=1 SV=1",0.552,0.714,0.876,0.851,1.049,0.823
+D-dopachrome decarboxylase OS=Rattus norvegicus OX=10116 GN=Ddt PE=1 SV=3,0.419,0.519,0.668,0.579,0.844,0.747
+Fructose-bisphosphate aldolase A OS=Rattus norvegicus OX=10116 GN=Aldoa PE=1 SV=2,0.53,0.786,0.896,0.91,1.045,0.894
+L-lactate dehydrogenase A chain OS=Rattus norvegicus OX=10116 GN=Ldha PE=1 SV=1,0.477,0.955,1.105,0.919,0.936,0.857
+"ATP synthase subunit d, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5pd PE=1 SV=3",0.412,0.593,0.904,0.629,1.088,0.583
+Ubiquitin carboxyl-terminal hydrolase isozyme L1 OS=Rattus norvegicus OX=10116 GN=Uchl1 PE=1 SV=2,0.422,0.499,0.734,0.704,1.029,0.627
+Adenosine 5'-monophosphoramidase HINT1 OS=Rattus norvegicus OX=10116 GN=Hint1 PE=1 SV=5,0.488,0.647,0.849,0.909,0.903,0.782
+Fructose-bisphosphate aldolase C OS=Rattus norvegicus OX=10116 GN=Aldoc PE=1 SV=3,0.525,0.732,0.859,0.649,0.862,0.841
+Pyruvate kinase PKM OS=Rattus norvegicus OX=10116 GN=Pkm PE=1 SV=3,0.471,0.766,0.898,0.836,1.097,0.783
+Calmodulin-3 OS=Rattus norvegicus OX=10116 GN=Calm3 PE=1 SV=1,0.468,0.594,0.785,0.555,0.921,0.673
+Myelin basic protein OS=Rattus norvegicus OX=10116 GN=Mbp PE=1 SV=3,1.629,0.916,4.691,0.417,1.403,0.323
+"10 kDa heat shock protein, mitochondrial OS=Rattus norvegicus OX=10116 GN=Hspe1 PE=1 SV=3",0.583,0.694,0.902,0.672,0.967,0.617
+Peptidyl-prolyl cis-trans isomerase A OS=Rattus norvegicus OX=10116 GN=Ppia PE=1 SV=2,0.383,0.648,0.875,0.749,1.005,0.78
+Hemoglobin subunit beta-2 OS=Rattus norvegicus OX=10116 PE=1 SV=2,2.653,1.749,1.894,3.654,3.336,1.058
+"ATP synthase subunit beta, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5f1b PE=1 SV=2",0.381,0.641,0.876,0.595,1.108,0.541
+Nucleoside diphosphate kinase A OS=Rattus norvegicus OX=10116 GN=Nme1 PE=1 SV=1,0.514,0.745,0.767,0.912,0.998,0.852
+Creatine kinase B-type OS=Rattus norvegicus OX=10116 GN=Ckb PE=1 SV=2,0.42,0.674,0.701,0.61,0.753,0.826
+14-3-3 protein zeta/delta OS=Rattus norvegicus OX=10116 GN=Ywhaz PE=1 SV=1,0.515,0.673,0.703,0.66,0.746,0.789
+"ATP synthase subunit e, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5me PE=1 SV=3",0.676,0.748,0.775,0.652,0.928,0.759
+Phosphoglycerate mutase 1 OS=Rattus norvegicus OX=10116 GN=Pgam1 PE=1 SV=4,0.42,0.613,0.788,0.863,0.987,0.8
+Gamma-enolase OS=Rattus norvegicus OX=10116 GN=Eno2 PE=1 SV=2,0.565,0.694,0.93,0.576,1.181,0.567
+Nucleoside diphosphate kinase B OS=Rattus norvegicus OX=10116 GN=Nme2 PE=1 SV=1,0.73,0.846,0.91,1.01,1.196,0.858
+Profilin-1 OS=Rattus norvegicus OX=10116 GN=Pfn1 PE=1 SV=2,0.53,0.812,0.699,1.102,1.325,0.819
+Cofilin-1 OS=Rattus norvegicus OX=10116 GN=Cfl1 PE=1 SV=3,0.532,0.585,0.826,0.741,0.895,0.76
+Rab GDP dissociation inhibitor alpha OS=Rattus norvegicus OX=10116 GN=Gdi1 PE=1 SV=1,0.351,0.633,0.815,0.582,1.015,0.75
+Dihydropyrimidinase-related protein 2 OS=Rattus norvegicus OX=10116 GN=Dpysl2 PE=1 SV=1,0.381,0.679,0.797,0.692,1.017,0.726
+Hemoglobin subunit alpha-1/2 OS=Rattus norvegicus OX=10116 GN=Hba1 PE=1 SV=3,3.514,1.812,1.569,3.201,2.653,1.143
+14-3-3 protein gamma OS=Rattus norvegicus OX=10116 GN=Ywhag PE=1 SV=2,0.426,0.691,0.706,0.744,0.763,0.846
+Alpha-enolase OS=Rattus norvegicus OX=10116 GN=Eno1 PE=1 SV=4,0.604,0.722,1.03,0.823,1.299,0.674
+"ATP synthase subunit alpha, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5f1a PE=1 SV=2",0.411,0.64,0.971,0.646,1.097,0.597
+Acyl-CoA-binding protein OS=Rattus norvegicus OX=10116 GN=Dbi PE=1 SV=3,0.661,0.49,0.702,0.983,1.665,0.806
+Phosphatidylethanolamine-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Pebp1 PE=1 SV=3,0.564,0.742,0.903,0.642,0.917,0.72
+Triosephosphate isomerase OS=Rattus norvegicus OX=10116 GN=Tpi1 PE=1 SV=2,0.503,0.69,0.805,0.769,0.971,0.834
+V-type proton ATPase subunit F OS=Rattus norvegicus OX=10116 GN=Atp6v1f PE=1 SV=1,0.325,0.599,0.876,0.554,0.661,0.793
+"Aspartate aminotransferase, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Got1 PE=1 SV=3",0.446,0.801,1.082,0.675,0.858,0.671
+"ATP synthase subunit O, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5po PE=1 SV=1",0.439,0.55,1.024,0.951,1.129,0.813
+Protein S100-A8 OS=Rattus norvegicus OX=10116 GN=S100a8 PE=1 SV=3,9.382,1.369,3.4,100,100,2.664
+14-3-3 protein beta/alpha OS=Rattus norvegicus OX=10116 GN=Ywhab PE=1 SV=3,0.678,0.798,0.906,0.762,0.965,0.788
+Glutathione S-transferase Mu 7 OS=Rattus norvegicus OX=10116 GN=Gstm7 PE=1 SV=2,0.566,0.799,0.877,0.549,0.803,0.712
+14-3-3 protein epsilon OS=Rattus norvegicus OX=10116 GN=Ywhae PE=1 SV=1,0.587,0.759,0.79,0.795,0.976,0.712
+Synaptotagmin-1 OS=Rattus norvegicus OX=10116 GN=Syt1 PE=1 SV=3,0.503,0.809,0.799,0.488,0.724,0.616
+Transgelin-3 OS=Rattus norvegicus OX=10116 GN=Tagln3 PE=1 SV=2,0.531,0.604,1.049,0.724,1.085,0.605
+"Malate dehydrogenase, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Mdh1 PE=1 SV=3",0.417,0.69,0.893,0.69,0.774,0.754
+Voltage-dependent anion-selective channel protein 1 OS=Rattus norvegicus OX=10116 GN=Vdac1 PE=1 SV=4,0.465,0.844,1.085,0.757,1.072,0.674
+Syntaxin-1A OS=Rattus norvegicus OX=10116 GN=Stx1a PE=1 SV=1,0.469,0.589,0.589,0.498,0.781,0.646
+Astrocytic phosphoprotein PEA-15 OS=Rattus norvegicus OX=10116 GN=Pea15 PE=1 SV=1,0.814,0.871,0.936,0.671,1.127,0.893
+Albumin OS=Rattus norvegicus OX=10116 GN=Alb PE=1 SV=2,3.821,1.071,1.429,10.518,8.518,1.27
+Ig gamma-2A chain C region OS=Rattus norvegicus OX=10116 GN=Igg-2a PE=1 SV=1,4.136,1.258,2.139,8.053,13.407,0.813
+Glyceraldehyde-3-phosphate dehydrogenase OS=Rattus norvegicus OX=10116 GN=Gapdh PE=1 SV=3,0.527,0.604,0.668,0.635,0.779,0.774
+Dihydropyrimidinase-related protein 1 OS=Rattus norvegicus OX=10116 GN=Crmp1 PE=1 SV=1,0.333,0.577,0.591,0.738,1.121,0.847
+"Cytochrome c, somatic OS=Rattus norvegicus OX=10116 GN=Cycs PE=1 SV=2",0.471,0.636,1.098,0.599,1.049,0.776
+Peroxiredoxin-6 OS=Rattus norvegicus OX=10116 GN=Prdx6 PE=1 SV=3,0.409,0.572,0.819,0.598,0.922,0.565
+Tubulin beta-3 chain OS=Rattus norvegicus OX=10116 GN=Tubb3 PE=1 SV=1,0.388,0.579,0.639,0.536,0.84,0.727
+Glucose-6-phosphate isomerase OS=Rattus norvegicus OX=10116 GN=Gpi PE=1 SV=1,0.387,0.81,0.923,0.82,0.911,0.964
+Heat shock cognate 71 kDa protein OS=Rattus norvegicus OX=10116 GN=Hspa8 PE=1 SV=1,0.456,0.719,0.822,0.818,0.967,0.864
+Phosphoglycerate kinase 1 OS=Rattus norvegicus OX=10116 GN=Pgk1 PE=1 SV=2,0.505,0.696,0.97,0.813,1.158,0.765
+Tubulin alpha-4A chain OS=Rattus norvegicus OX=10116 GN=Tuba4a PE=1 SV=1,0.424,0.588,0.562,0.469,0.826,0.618
+Tubulin beta-2A chain OS=Rattus norvegicus OX=10116 GN=Tubb2a PE=1 SV=1,0.395,0.558,0.639,0.481,0.832,0.595
+Tubulin beta-2B chain OS=Rattus norvegicus OX=10116 GN=Tubb2b PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+14-3-3 protein eta OS=Rattus norvegicus OX=10116 GN=Ywhah PE=1 SV=2,0.619,0.71,1.017,0.757,0.864,0.985
+Peroxiredoxin-1 OS=Rattus norvegicus OX=10116 GN=Prdx1 PE=1 SV=1,0.605,0.739,0.61,0.929,0.759,1.135
+Superoxide dismutase [Cu-Zn] OS=Rattus norvegicus OX=10116 GN=Sod1 PE=1 SV=2,0.475,0.71,0.799,0.506,0.633,0.754
+Peroxiredoxin-2 OS=Rattus norvegicus OX=10116 GN=Prdx2 PE=1 SV=3,0.575,0.749,0.813,0.78,0.82,0.876
+Ras-related protein Rab-2A OS=Rattus norvegicus OX=10116 GN=Rab2a PE=2 SV=1,0.431,0.761,0.165,0.523,0.136,100
+Synaptosomal-associated protein 25 OS=Rattus norvegicus OX=10116 GN=Snap25 PE=1 SV=1,0.389,0.702,1.214,0.583,1.011,0.603
+Syntaxin-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Stxbp1 PE=1 SV=1,0.318,0.591,0.629,0.586,0.764,0.685
+Stathmin OS=Rattus norvegicus OX=10116 GN=Stmn1 PE=1 SV=2,0.504,0.533,0.678,0.688,0.899,0.74
+"Cytochrome c oxidase subunit 5A, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox5a PE=1 SV=1",0.591,0.63,1.132,0.709,1.303,0.477
+Tubulin beta-5 chain OS=Rattus norvegicus OX=10116 GN=Tubb5 PE=1 SV=1,0.313,0.427,0.455,0.427,0.866,0.454
+Tubulin beta-4B chain OS=Rattus norvegicus OX=10116 GN=Tubb4b PE=1 SV=1,0.395,0.577,0.551,0.386,0.707,0.602
+Alpha-synuclein OS=Rattus norvegicus OX=10116 GN=Snca PE=1 SV=1,0.537,0.595,1.052,1.051,1.579,0.579
+Tropomyosin alpha-3 chain OS=Rattus norvegicus OX=10116 GN=Tpm3 PE=1 SV=2,0.601,0.74,0.998,0.805,1.491,0.547
+Small ribosomal subunit protein uS13 OS=Rattus norvegicus OX=10116 GN=Rps18 PE=1 SV=3,0.816,1.048,2.006,1.399,1.714,0.746
+"Malate dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Mdh2 PE=1 SV=2",0.454,0.716,0.869,0.77,1.044,0.744
+Ras-related protein Rab-14 OS=Rattus norvegicus OX=10116 GN=Rab14 PE=1 SV=3,0.349,0.617,1.16,0.342,1.532,0.407
+Tubulin alpha-1A chain OS=Rattus norvegicus OX=10116 GN=Tuba1a PE=1 SV=1,0.341,0.564,0.569,0.592,0.897,0.624
+Guanine deaminase OS=Rattus norvegicus OX=10116 GN=Gda PE=1 SV=1,0.54,0.793,1.083,0.761,1.352,0.604
+Ras-related protein Rab-3A OS=Rattus norvegicus OX=10116 GN=Rab3a PE=1 SV=1,0.447,0.73,0.499,0.51,0.797,0.669
+Thymosin beta-4 OS=Rattus norvegicus OX=10116 GN=Tmsb4x PE=1 SV=2,0.896,0.804,1.221,1.024,1.271,0.806
+"60 kDa heat shock protein, mitochondrial OS=Rattus norvegicus OX=10116 GN=Hspd1 PE=1 SV=1",0.543,0.698,0.603,0.73,0.929,0.827
+"Cytochrome c oxidase subunit 7A2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox7a2 PE=1 SV=1",0.286,0.52,1.658,0.322,1.107,0.312
+Prohibitin-2 OS=Rattus norvegicus OX=10116 GN=Phb2 PE=1 SV=1,0.301,0.414,0.637,0.736,0.828,0.862
+ADP-ribosylation factor 3 OS=Rattus norvegicus OX=10116 GN=Arf3 PE=2 SV=2,0.458,0.802,0.839,0.74,0.993,0.527
+Tubulin polymerization-promoting protein OS=Rattus norvegicus OX=10116 GN=Tppp PE=1 SV=1,0.494,0.593,0.727,0.62,0.661,0.784
+Rab GDP dissociation inhibitor beta OS=Rattus norvegicus OX=10116 GN=Gdi2 PE=1 SV=2,0.419,6.652,3.522,0.793,0.56,1.298
+"Aspartate aminotransferase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Got2 PE=1 SV=2",0.364,0.889,0.854,0.668,0.772,0.906
+L-lactate dehydrogenase B chain OS=Rattus norvegicus OX=10116 GN=Ldhb PE=1 SV=2,0.552,0.867,1.113,0.694,0.956,0.728
+14-3-3 protein theta OS=Rattus norvegicus OX=10116 GN=Ywhaq PE=1 SV=1,0.544,0.723,0.796,0.793,1.08,0.667
+Glutathione S-transferase Mu 1 OS=Rattus norvegicus OX=10116 GN=Gstm1 PE=1 SV=2,0.444,0.39,0.28,0.633,0.332,0.807
+Beta-synuclein OS=Rattus norvegicus OX=10116 GN=Sncb PE=1 SV=1,0.502,0.628,0.813,0.815,1.106,0.844
+Small ribosomal subunit protein eS19 OS=Rattus norvegicus OX=10116 GN=Rps19 PE=1 SV=3,0.586,0.938,1.739,1.367,1.726,0.811
+Guanine nucleotide-binding protein G(o) subunit alpha OS=Rattus norvegicus OX=10116 GN=Gnao1 PE=1 SV=2,0.435,0.692,0.784,0.53,0.879,0.651
+Small ribosomal subunit protein uS15 OS=Rattus norvegicus OX=10116 GN=Rps13 PE=1 SV=2,0.44,0.458,1.514,0.986,1.631,0.587
+V-type proton ATPase subunit E 1 OS=Rattus norvegicus OX=10116 GN=Atp6v1e1 PE=1 SV=1,0.364,0.656,0.749,0.668,0.882,0.74
+Rho GDP-dissociation inhibitor 1 OS=Rattus norvegicus OX=10116 GN=Arhgdia PE=1 SV=1,0.496,0.607,0.608,0.812,0.775,0.873
+"Glutamate dehydrogenase 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Glud1 PE=1 SV=2",0.433,0.73,0.888,0.843,1.124,0.669
+Small ribosomal subunit protein eS4 OS=Rattus norvegicus OX=10116 GN=Rps4x PE=1 SV=2,0.679,0.735,2.051,1.439,2.387,0.603
+Vesicle-fusing ATPase OS=Rattus norvegicus OX=10116 GN=Nsf PE=1 SV=1,0.376,0.64,0.595,0.479,0.857,0.579
+"Cytochrome b-c1 complex subunit 2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Uqcrc2 PE=1 SV=2",0.481,0.738,0.93,0.647,0.943,0.704
+"Aconitate hydratase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Aco2 PE=1 SV=2",0.416,0.806,0.907,0.665,0.916,0.791
+CB1 cannabinoid receptor-interacting protein 1 OS=Rattus norvegicus OX=10116 GN=Cnrip1 PE=1 SV=1,0.551,0.717,1.032,0.338,0.99,0.858
+Profilin-2 OS=Rattus norvegicus OX=10116 GN=Pfn2 PE=1 SV=3,0.375,0.622,0.79,0.848,0.94,0.865
+Histone H2B type 1 OS=Rattus norvegicus OX=10116 PE=1 SV=2,0.558,0.566,1.115,0.666,1.531,0.497
+Histone H4 OS=Rattus norvegicus OX=10116 GN=H4c2 PE=1 SV=2,0.603,0.57,1.255,0.816,1.494,0.635
+Adenylate kinase isoenzyme 1 OS=Rattus norvegicus OX=10116 GN=Ak1 PE=1 SV=3,0.47,0.952,1.143,0.595,0.736,0.511
+"ATP synthase subunit gamma, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5f1c PE=1 SV=2",0.492,0.645,1.188,0.636,1.013,0.696
+Ig gamma-2C chain C region OS=Rattus norvegicus OX=10116 PE=2 SV=1,4.008,1.397,1.548,6.928,6.272,1.506
+Ig gamma-1 chain C region OS=Rattus norvegicus OX=10116 PE=1 SV=1,4.436,1.021,1.657,5.364,8.322,1.176
+Glutathione S-transferase P OS=Rattus norvegicus OX=10116 GN=Gstp1 PE=1 SV=2,0.419,0.499,0.729,0.777,0.993,0.817
+"ATP synthase-coupling factor 6, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5pf PE=1 SV=1",0.45,0.434,0.835,0.595,0.846,0.622
+Calreticulin OS=Rattus norvegicus OX=10116 GN=Calr PE=1 SV=1,0.644,0.686,0.915,0.844,1.138,0.798
+Protein-L-isoaspartate(D-aspartate) O-methyltransferase OS=Rattus norvegicus OX=10116 GN=Pcmt1 PE=1 SV=2,0.696,0.767,0.685,0.677,1.03,0.729
+Transthyretin OS=Rattus norvegicus OX=10116 GN=Ttr PE=1 SV=1,3.791,1.002,1.435,3.632,2.707,1.191
+Ketimine reductase mu-crystallin OS=Rattus norvegicus OX=10116 GN=Crym PE=1 SV=1,0.502,0.712,0.849,0.667,1.328,0.58
+Sodium/potassium-transporting ATPase subunit alpha-3 OS=Rattus norvegicus OX=10116 GN=Atp1a3 PE=1 SV=2,0.475,0.742,0.864,0.532,0.912,0.611
+Synapsin-1 OS=Rattus norvegicus OX=10116 GN=Syn1 PE=1 SV=3,0.425,0.68,0.643,0.427,0.485,0.859
+Ubiquitin-ribosomal protein eL40 fusion protein OS=Rattus norvegicus OX=10116 GN=Uba52 PE=1 SV=2,0.656,0.761,0.595,1.026,0.48,1.911
+Heat shock factor-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Hsbp1 PE=3 SV=1,0.052,0.01,0.084,0.3,1,1
+Parkinson disease protein 7 homolog OS=Rattus norvegicus OX=10116 GN=Park7 PE=1 SV=1,0.493,0.589,0.931,0.602,1.03,0.581
+Transcriptional activator protein Pur-alpha (Fragment) OS=Rattus norvegicus OX=10116 GN=Pura PE=1 SV=1,0.364,0.627,0.167,0.672,0.199,6.661
+Tropomyosin alpha-1 chain OS=Rattus norvegicus OX=10116 GN=Tpm1 PE=1 SV=3,0.546,0.421,0.939,0.63,1.127,0.598
+"V-type proton ATPase subunit B, brain isoform OS=Rattus norvegicus OX=10116 GN=Atp6v1b2 PE=1 SV=1",0.386,0.718,0.914,0.853,1.119,0.815
+"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pdhb PE=1 SV=2",0.375,0.589,0.695,0.682,0.879,0.698
+Macrophage migration inhibitory factor OS=Rattus norvegicus OX=10116 GN=Mif PE=1 SV=4,0.321,0.501,0.847,0.731,0.905,0.764
+Calcium/calmodulin-dependent protein kinase type II subunit alpha OS=Rattus norvegicus OX=10116 GN=Camk2a PE=1 SV=1,0.436,0.589,0.711,0.771,1.475,0.5
+Protein kinase C and casein kinase substrate in neurons protein 1 OS=Rattus norvegicus OX=10116 GN=Pacsin1 PE=1 SV=1,0.491,0.786,0.863,0.623,0.818,0.805
+"Peroxiredoxin-5, mitochondrial OS=Rattus norvegicus OX=10116 GN=Prdx5 PE=1 SV=1",0.376,0.591,0.749,0.906,0.854,0.891
+Microtubule-associated protein 2 OS=Rattus norvegicus OX=10116 GN=Map2 PE=1 SV=3,0.728,0.758,0.754,0.571,0.739,0.673
+"ATP synthase subunit g, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5mg PE=1 SV=2",0.262,4.619,1,0.055,0.118,1
+Syntaxin-1B OS=Rattus norvegicus OX=10116 GN=Stx1b PE=1 SV=1,0.447,0.744,0.849,0.558,0.884,0.633
+Complexin-2 OS=Rattus norvegicus OX=10116 GN=Cplx2 PE=1 SV=1,0.402,0.613,0.893,0.734,0.724,0.667
+Serotransferrin OS=Rattus norvegicus OX=10116 GN=Tf PE=1 SV=3,3.936,1.008,1.5,9.465,7.916,1.185
+Cytochrome c oxidase subunit 6C-2 OS=Rattus norvegicus OX=10116 GN=Cox6c2 PE=1 SV=3,0.432,0.783,0.991,0.603,1.049,0.675
+"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufv2 PE=1 SV=2",0.377,0.5,0.888,0.704,1.019,0.589
+"Creatine kinase U-type, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ckmt1 PE=1 SV=1",0.487,0.806,0.928,0.78,0.852,0.677
+Glutamine synthetase OS=Rattus norvegicus OX=10116 GN=Glul PE=1 SV=3,0.475,0.685,0.768,0.982,1.026,0.91
+Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Rattus norvegicus OX=10116 GN=Hnrnpa2b1 PE=1 SV=1,0.414,0.56,0.676,0.864,0.836,0.946
+Ras-related protein Rab-1A OS=Rattus norvegicus OX=10116 GN=Rab1A PE=1 SV=3,0.348,0.539,0.586,0.726,0.635,1.042
+Endoplasmic reticulum chaperone BiP OS=Rattus norvegicus OX=10116 GN=Hspa5 PE=1 SV=1,0.737,0.771,0.863,0.985,0.912,0.938
+Transitional endoplasmic reticulum ATPase OS=Rattus norvegicus OX=10116 GN=Vcp PE=1 SV=3,0.626,0.842,0.895,1.007,1.024,0.856
+Hexokinase-1 OS=Rattus norvegicus OX=10116 GN=Hk1 PE=1 SV=4,0.367,0.686,0.778,0.733,0.919,0.772
+Myotrophin OS=Rattus norvegicus OX=10116 GN=Mtpn PE=1 SV=2,0.623,0.71,1.116,0.769,1.511,0.964
+Visinin-like protein 1 OS=Rattus norvegicus OX=10116 GN=Vsnl1 PE=1 SV=2,0.426,0.887,0.753,0.558,0.656,0.794
+Junction plakoglobin OS=Rattus norvegicus OX=10116 GN=Jup PE=1 SV=1,1.068,1.722,0.359,0.554,0.294,2.705
+Endophilin-A1 OS=Rattus norvegicus OX=10116 GN=Sh3gl2 PE=1 SV=2,0.261,0.464,0.561,0.391,0.657,0.539
+Calmodulin regulator protein PCP4 OS=Rattus norvegicus OX=10116 GN=Pcp4 PE=1 SV=2,0.531,0.607,1.548,0.43,1.111,0.3
+Ubiquitin-conjugating enzyme E2 N OS=Rattus norvegicus OX=10116 GN=Ube2n PE=1 SV=1,0.55,0.819,0.94,0.643,0.989,0.696
+Sodium/potassium-transporting ATPase subunit alpha-1 OS=Rattus norvegicus OX=10116 GN=Atp1a1 PE=1 SV=1,0.352,0.734,0.626,0.42,0.621,0.733
+Sodium/potassium-transporting ATPase subunit alpha-2 OS=Rattus norvegicus OX=10116 GN=Atp1a2 PE=1 SV=1,0.435,0.718,0.88,0.487,0.757,0.717
+"Cytochrome b-c1 complex subunit Rieske, mitochondrial OS=Rattus norvegicus OX=10116 GN=Uqcrfs1 PE=1 SV=2",0.677,0.674,0.796,0.652,0.91,0.692
+Glutathione S-transferase alpha-3 OS=Rattus norvegicus OX=10116 GN=Gsta3 PE=1 SV=3,0.483,0.391,0.165,4.551,1,7.267
+"2',3'-cyclic-nucleotide 3'-phosphodiesterase OS=Rattus norvegicus OX=10116 GN=Cnp PE=1 SV=2",1.228,0.687,0.821,0.541,0.784,0.803
+Apolipoprotein E OS=Rattus norvegicus OX=10116 GN=Apoe PE=1 SV=2,1.005,0.799,1.099,2.051,1.882,0.956
+Cystatin-B OS=Rattus norvegicus OX=10116 GN=Cstb PE=1 SV=1,0.61,0.83,0.779,0.937,0.827,0.91
+Glial fibrillary acidic protein OS=Rattus norvegicus OX=10116 GN=Gfap PE=1 SV=2,1.816,0.541,0.579,1.718,2.48,1.076
+Actin-related protein 2 OS=Rattus norvegicus OX=10116 GN=Actr2 PE=2 SV=1,0.388,0.413,1.179,1.083,2.995,0.497
+Dihydropyrimidinase-related protein 5 OS=Rattus norvegicus OX=10116 GN=Dpysl5 PE=1 SV=1,0.582,0.782,0.966,1.074,1.438,0.736
+"Superoxide dismutase [Mn], mitochondrial OS=Rattus norvegicus OX=10116 GN=Sod2 PE=1 SV=2",0.375,0.527,0.741,0.651,0.778,0.852
+Large ribosomal subunit protein P2 OS=Rattus norvegicus OX=10116 GN=Rplp2 PE=1 SV=2,0.565,0.604,0.954,0.783,1.061,0.737
+Heat shock protein HSP 90-alpha OS=Rattus norvegicus OX=10116 GN=Hsp90aa1 PE=1 SV=3,0.386,0.683,0.601,0.708,0.976,0.831
+"ATP synthase F(0) complex subunit B1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5pb PE=1 SV=1",0.479,0.926,0.839,0.69,0.917,0.768
+Protein S100-B OS=Rattus norvegicus OX=10116 GN=S100b PE=1 SV=2,0.313,0.979,1.348,0.315,0.782,0.403
+Synapsin-2 OS=Rattus norvegicus OX=10116 GN=Syn2 PE=1 SV=1,0.444,0.637,0.705,0.702,1.024,0.697
+Calcium/calmodulin-dependent protein kinase type II subunit beta OS=Rattus norvegicus OX=10116 GN=Camk2b PE=1 SV=1,0.41,0.601,0.876,0.575,1.6,0.446
+Ig gamma-2B chain C region OS=Rattus norvegicus OX=10116 GN=Igh-1a PE=1 SV=1,7.916,1.211,1.247,11.432,13.386,0.81
+Alpha-endosulfine OS=Rattus norvegicus OX=10116 GN=Ensa PE=1 SV=1,0.448,0.561,0.866,0.864,1.158,0.71
+Carbonic anhydrase 2 OS=Rattus norvegicus OX=10116 GN=Ca2 PE=1 SV=2,1.641,1.199,0.821,1.093,0.854,1.112
+Clathrin heavy chain 1 OS=Rattus norvegicus OX=10116 GN=Cltc PE=1 SV=3,0.265,0.531,0.596,0.548,0.893,0.602
+Alpha-2-HS-glycoprotein OS=Rattus norvegicus OX=10116 GN=Ahsg PE=1 SV=2,2.236,0.971,1.493,12.4,15.506,1.247
+"ATP-dependent 6-phosphofructokinase, platelet type OS=Rattus norvegicus OX=10116 GN=Pfkp PE=1 SV=2",0.629,0.752,0.813,0.864,1.1,0.827
+Transketolase OS=Rattus norvegicus OX=10116 GN=Tkt PE=1 SV=1,0.736,0.835,1.014,0.941,1.102,0.775
+"Glycogen phosphorylase, brain form (Fragment) OS=Rattus norvegicus OX=10116 GN=Pygb PE=1 SV=3",0.413,0.741,0.739,0.604,0.793,0.758
+"N(G),N(G)-dimethylarginine dimethylaminohydrolase 1 OS=Rattus norvegicus OX=10116 GN=Ddah1 PE=1 SV=3",0.591,6.299,5.546,0.944,1.209,0.694
+Vesicle-associated membrane protein 3 OS=Rattus norvegicus OX=10116 GN=Vamp3 PE=1 SV=1,,,,,,
+"Keratin, type I cytoskeletal 14 OS=Rattus norvegicus OX=10116 GN=Krt14 PE=2 SV=1",,,,,,
+Histone H2B type 1-A OS=Rattus norvegicus OX=10116 GN=H2bc1 PE=1 SV=2,0.175,0.175,0.402,0.357,0.518,0.689
+Dynamin-1 OS=Rattus norvegicus OX=10116 GN=Dnm1 PE=1 SV=2,0.297,0.513,0.857,0.567,0.952,0.595
+Ras-related protein Rab-11B OS=Rattus norvegicus OX=10116 GN=Rab11b PE=1 SV=4,0.444,0.946,0.551,0.86,3.644,0.274
+Large ribosomal subunit protein eL31 OS=Rattus norvegicus OX=10116 GN=Rpl31 PE=2 SV=1,1.004,0.698,3.587,1.413,3.69,0.387
+Heat shock protein HSP 90-beta OS=Rattus norvegicus OX=10116 GN=Hsp90ab1 PE=1 SV=4,0.389,0.663,0.754,0.665,1.008,0.713
+Protein disulfide-isomerase A3 OS=Rattus norvegicus OX=10116 GN=Pdia3 PE=1 SV=2,0.605,0.78,0.898,1.018,1.06,1.029
+Protein S100-A9 OS=Rattus norvegicus OX=10116 GN=S100a9 PE=1 SV=3,2.444,1.173,3.447,4.846,4.914,1.187
+"Actin, alpha cardiac muscle 1 OS=Rattus norvegicus OX=10116 GN=Actc1 PE=2 SV=1",0.395,0.543,0.538,0.644,0.835,0.686
+ADP/ATP translocase 1 OS=Rattus norvegicus OX=10116 GN=Slc25a4 PE=1 SV=3,0.515,0.797,0.632,0.514,0.779,0.809
+"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox4i1 PE=1 SV=1",0.359,0.675,1.13,0.517,0.864,0.661
+Calcineurin subunit B type 1 OS=Rattus norvegicus OX=10116 GN=Ppp3r1 PE=1 SV=2,0.203,0.789,0.114,0.662,0.111,10.539
+Cell cycle exit and neuronal differentiation protein 1 OS=Rattus norvegicus OX=10116 GN=Cend1 PE=1 SV=1,0.601,0.47,0.739,0.64,0.938,0.935
+"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufs1 PE=1 SV=1",0.432,0.669,0.86,0.692,0.99,0.604
+"ATPase inhibitor, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5if1 PE=3 SV=2",0.613,0.728,1.223,0.72,1.023,0.536
+Limbic system-associated membrane protein OS=Rattus norvegicus OX=10116 GN=Lsamp PE=1 SV=1,0.488,0.823,1.215,0.716,1.385,0.576
+"Citrate synthase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cs PE=1 SV=1",0.465,0.799,0.959,0.747,0.969,0.726
+Cytochrome b5 type B OS=Rattus norvegicus OX=10116 GN=Cyb5b PE=1 SV=2,0.506,0.408,0.704,0.752,1.387,0.542
+Dihydropyrimidinase-related protein 4 (Fragment) OS=Rattus norvegicus OX=10116 GN=Dpysl4 PE=1 SV=1,0.429,0.572,1.322,1.037,1.274,0.792
+"Electrogenic aspartate/glutamate antiporter SLC25A12, mitochondrial OS=Rattus norvegicus OX=10116 GN=Slc25a12 PE=3 SV=5",0.445,0.762,0.879,0.774,1.224,0.714
+Transforming protein RhoA OS=Rattus norvegicus OX=10116 GN=Rhoa PE=1 SV=1,0.329,0.371,0.68,0.465,0.653,0.586
+Protein phosphatase 3 catalytic subunit alpha OS=Rattus norvegicus OX=10116 GN=Ppp3ca PE=1 SV=1,0.378,0.747,0.677,0.436,0.701,0.776
+Alpha-1-inhibitor 3 OS=Rattus norvegicus OX=10116 GN=A1i3 PE=1 SV=1,2.796,1.339,1.857,5.384,5,1.283
+Cytochrome b-c1 complex subunit 8 OS=Rattus norvegicus OX=10116 GN=Uqcrq PE=3 SV=1,0.62,0.537,0.067,0.425,0.108,7.225
+Isoaspartyl peptidase/L-asparaginase OS=Rattus norvegicus OX=10116 GN=Asrgl1 PE=1 SV=1,0.602,0.766,0.852,0.516,0.796,0.585
+Fascin OS=Rattus norvegicus OX=10116 GN=Fscn1 PE=1 SV=2,0.644,0.922,0.885,0.614,0.82,0.695
+Sideroflexin-1 OS=Rattus norvegicus OX=10116 GN=Sfxn1 PE=2 SV=4,0.587,0.698,1.02,0.724,1.446,0.602
+"Cytochrome c oxidase subunit 5B, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox5b PE=1 SV=2",0.464,0.66,1.2,0.621,1.11,0.505
+"Dihydrolipoyl dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Dld PE=1 SV=1",0.449,0.717,0.844,0.698,1.142,0.742
+Vesicle-associated membrane protein 2 OS=Rattus norvegicus OX=10116 GN=Vamp2 PE=1 SV=2,0.383,1.033,0.987,0.561,0.828,0.589
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1 OS=Rattus norvegicus OX=10116 GN=Gnb1 PE=1 SV=4,0.366,0.713,0.703,0.551,0.668,0.805
+Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2 OS=Rattus norvegicus OX=10116 GN=Gnb2 PE=1 SV=4,0.539,0.681,0.107,0.651,0.099,9.98
+"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial OS=Rattus norvegicus OX=10116 GN=Idh3a PE=1 SV=1",0.4,0.641,0.901,0.571,0.962,0.644
+Opioid-binding protein/cell adhesion molecule OS=Rattus norvegicus OX=10116 GN=Opcml PE=1 SV=2,0.446,0.759,1.631,0.471,1.209,0.448
+Histone H2A type 4 OS=Rattus norvegicus OX=10116 PE=2 SV=2,0.474,0.482,1.076,0.693,1.126,0.454
+Large ribosomal subunit protein uL23 OS=Rattus norvegicus OX=10116 GN=Rpl23a PE=1 SV=1,0.415,0.558,1.429,0.997,2.875,0.343
+NEDD8 OS=Rattus norvegicus OX=10116 GN=Nedd8 PE=1 SV=1,0.465,0.541,1.07,0.409,0.858,0.438
+ADP/ATP translocase 2 OS=Rattus norvegicus OX=10116 GN=Slc25a5 PE=1 SV=3,0.463,0.786,0.804,0.689,0.668,0.914
+Prohibitin 1 OS=Rattus norvegicus OX=10116 GN=Phb1 PE=1 SV=1,0.275,0.437,0.562,0.512,0.489,0.67
+F-actin-capping protein subunit beta OS=Rattus norvegicus OX=10116 GN=Capzb PE=1 SV=1,0.497,0.669,0.157,0.764,0.202,7.223
+Aldo-keto reductase family 1 member A1 OS=Rattus norvegicus OX=10116 GN=Akr1a1 PE=1 SV=2,0.438,0.604,0.71,0.544,0.768,0.705
+Ras-related protein Rab-1B OS=Rattus norvegicus OX=10116 GN=Rab1b PE=1 SV=1,0.691,0.456,0.078,0.668,0.086,12.955
+Pyridoxal kinase OS=Rattus norvegicus OX=10116 GN=Pdxk PE=1 SV=1,0.885,1.852,0.33,0.393,0.482,4.442
+Complement C1q subcomponent subunit A OS=Rattus norvegicus OX=10116 GN=C1qa PE=1 SV=2,24.313,1.257,0.911,23.803,11.971,1.406
+CDGSH iron-sulfur domain-containing protein 1 OS=Rattus norvegicus OX=10116 GN=Cisd1 PE=3 SV=1,0.441,0.825,1.087,0.546,0.955,0.444
+WD repeat-containing protein 1 OS=Rattus norvegicus OX=10116 GN=Wdr1 PE=1 SV=3,0.51,0.82,1.09,0.814,1.244,0.699
+Alpha-soluble NSF attachment protein OS=Rattus norvegicus OX=10116 GN=Napa PE=1 SV=2,0.555,0.76,0.682,0.539,0.8,0.778
+Small ribosomal subunit protein eS30 OS=Rattus norvegicus OX=10116 GN=Fau PE=1 SV=1,0.556,0.675,1.59,0.735,1.477,0.536
+Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-7 OS=Rattus norvegicus OX=10116 GN=Gng7 PE=2 SV=2,0.699,0.831,1.713,0.611,1.269,0.547
+Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform OS=Rattus norvegicus OX=10116 GN=Ppp2cb PE=2 SV=1,0.514,0.936,0.955,0.561,0.97,0.75
+Neural cell adhesion molecule 1 OS=Rattus norvegicus OX=10116 GN=Ncam1 PE=1 SV=1,0.516,0.671,0.733,0.688,0.946,0.689
+Large ribosomal subunit protein eL39 OS=Rattus norvegicus OX=10116 GN=Rpl39 PE=1 SV=2,0.5,0.848,1.446,0.525,1.429,0.358
+Cystatin-C OS=Rattus norvegicus OX=10116 GN=Cst3 PE=1 SV=2,0.696,0.721,0.153,0.096,0.15,1
+Amino acid transporter heavy chain SLC3A2 OS=Rattus norvegicus OX=10116 GN=Slc3a2 PE=1 SV=1,0.448,0.715,1.032,0.863,1.135,0.766
+Protein NDRG2 OS=Rattus norvegicus OX=10116 GN=Ndrg2 PE=1 SV=1,0.52,0.859,1.528,0.416,0.999,0.623
+Sodium/potassium-transporting ATPase subunit beta-1 OS=Rattus norvegicus OX=10116 GN=Atp1b1 PE=1 SV=1,0.412,0.737,0.693,0.481,0.882,0.666
+Haptoglobin OS=Rattus norvegicus OX=10116 GN=Hp PE=1 SV=3,1.647,1.04,2.097,4.446,2.654,0.939
+Myosin light polypeptide 6 OS=Rattus norvegicus OX=10116 GN=Myl6 PE=1 SV=3,0.578,0.869,0.806,0.946,1.072,0.882
+Eukaryotic translation initiation factor 4H OS=Rattus norvegicus OX=10116 GN=Eif4h PE=1 SV=1,0.433,0.442,1.524,0.645,2.325,0.307
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufs4 PE=1 SV=1",0.431,0.662,1.325,0.353,9.421,0.095
+"Spectrin alpha chain, non-erythrocytic 1 OS=Rattus norvegicus OX=10116 GN=Sptan1 PE=1 SV=2",0.368,0.685,0.907,0.624,0.903,0.749
+Dynactin subunit 2 OS=Rattus norvegicus OX=10116 GN=Dctn2 PE=1 SV=1,0.396,0.365,0.688,0.869,1.101,0.605
+Thymosin beta-10 OS=Rattus norvegicus OX=10116 GN=Tmsb10 PE=1 SV=2,0.466,0.35,1.181,1.402,1.408,0.725
+"ATP synthase subunit epsilon, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5f1e PE=1 SV=2",0.539,0.794,1.271,0.973,1.375,0.707
+S-phase kinase-associated protein 1 OS=Rattus norvegicus OX=10116 GN=Skp1 PE=1 SV=3,0.222,0.243,0.262,0.439,0.777,1.082
+"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial OS=Rattus norvegicus OX=10116 GN=Dlat PE=1 SV=3",0.318,0.704,0.844,0.611,0.852,0.743
+Alpha-1-antiproteinase OS=Rattus norvegicus OX=10116 GN=Serpina1 PE=1 SV=2,0.798,1.124,2.196,3.678,2.811,1.118
+GTPase KRas OS=Rattus norvegicus OX=10116 GN=Kras PE=1 SV=3,0.53,0.781,0.986,0.84,1.118,0.629
+GTPase HRas OS=Rattus norvegicus OX=10116 GN=Hras PE=1 SV=2,0.314,1.23,1,0.056,0.166,1
+Actin-related protein 2/3 complex subunit 2 OS=Rattus norvegicus OX=10116 GN=Arpc2 PE=1 SV=1,0.553,0.813,0.173,0.873,0.213,6.78
+"Fumarate hydratase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Fh PE=1 SV=2",0.588,0.786,0.825,0.771,1.834,1.046
+Microtubule-associated protein 6 OS=Rattus norvegicus OX=10116 GN=Map6 PE=1 SV=1,0.511,0.578,0.866,0.803,0.788,0.618
+Excitatory amino acid transporter 2 OS=Rattus norvegicus OX=10116 GN=Slc1a2 PE=1 SV=2,0.422,0.871,0.787,0.316,0.581,0.697
+Small ribosomal subunit protein eS28 OS=Rattus norvegicus OX=10116 GN=Rps28 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+"Stress-70 protein, mitochondrial OS=Rattus norvegicus OX=10116 GN=Hspa9 PE=1 SV=3",0.428,0.642,0.721,0.718,0.869,0.894
+"Cytochrome b-c1 complex subunit 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Uqcrc1 PE=1 SV=1",0.449,0.692,0.966,0.648,0.971,0.65
+Contactin-1 OS=Rattus norvegicus OX=10116 GN=Cntn1 PE=1 SV=2,0.407,0.758,1.344,0.586,1.072,0.598
+"Acetyl-CoA acetyltransferase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Acat1 PE=1 SV=1",0.385,0.711,0.97,0.537,1.394,0.486
+Hippocalcin-like protein 4 OS=Rattus norvegicus OX=10116 GN=Hpcal4 PE=2 SV=2,4.2,5.588,1,0.01,1,0.01
+Septin-5 OS=Rattus norvegicus OX=10116 GN=Septin5 PE=1 SV=2,0.426,0.742,0.762,0.613,0.825,0.84
+Clathrin light chain B OS=Rattus norvegicus OX=10116 GN=Cltb PE=1 SV=1,0.666,1.143,1.072,0.737,0.671,0.987
+Ras-related C3 botulinum toxin substrate 1 OS=Rattus norvegicus OX=10116 GN=Rac1 PE=1 SV=1,0.439,0.674,0.855,0.891,1.272,0.66
+Elongation factor 1-alpha 1 OS=Rattus norvegicus OX=10116 GN=Eef1a1 PE=2 SV=1,0.518,0.734,0.684,0.996,1.131,0.83
+Fatty acid-binding protein 5 OS=Rattus norvegicus OX=10116 GN=Fabp5 PE=1 SV=3,0.677,0.613,0.611,0.714,0.55,0.976
+"Fatty acid-binding protein, brain OS=Rattus norvegicus OX=10116 GN=Fabp7 PE=1 SV=2",1.897,0.696,1.134,2.771,3.095,0.829
+Phosphoglucomutase-1 OS=Rattus norvegicus OX=10116 GN=Pgm1 PE=1 SV=2,0.521,0.689,0.896,0.718,1.138,0.925
+T-kininogen 2 OS=Rattus norvegicus OX=10116 PE=1 SV=2,100,0.112,0.414,100,100,5.736
+Thioredoxin OS=Rattus norvegicus OX=10116 GN=Txn PE=1 SV=2,0.663,0.993,0.926,0.872,0.771,1.35
+Hyaluronan and proteoglycan link protein 1 OS=Rattus norvegicus OX=10116 GN=Hapln1 PE=1 SV=2,0.357,0.727,1.295,0.464,1.009,0.41
+"ATP-dependent 6-phosphofructokinase, muscle type OS=Rattus norvegicus OX=10116 GN=Pfkm PE=1 SV=3",0.516,0.635,0.894,0.718,1.268,0.594
+Hypoxanthine-guanine phosphoribosyltransferase OS=Rattus norvegicus OX=10116 GN=Hprt1 PE=1 SV=1,0.584,0.853,2.044,0.915,2.773,0.367
+DnaJ homolog subfamily C member 5 OS=Rattus norvegicus OX=10116 GN=Dnajc5 PE=1 SV=1,0.481,0.806,0.834,0.541,0.487,0.825
+Proteasome subunit alpha type-6 OS=Rattus norvegicus OX=10116 GN=Psma6 PE=1 SV=1,0.53,0.74,0.096,0.435,0.152,9.278
+"Cytochrome b-c1 complex subunit 6, mitochondrial OS=Rattus norvegicus OX=10116 GN=Uqcrh PE=3 SV=1",0.219,0.38,0.923,0.642,1.073,0.566
+Thy-1 membrane glycoprotein OS=Rattus norvegicus OX=10116 GN=Thy1 PE=1 SV=1,0.342,1.116,2.788,0.456,1.388,0.396
+"Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Oxct1 PE=1 SV=1",0.517,7.551,6.1,5.205,4.734,0.935
+Tropomyosin alpha-4 chain OS=Rattus norvegicus OX=10116 GN=Tpm4 PE=1 SV=3,1.084,0.823,1.256,1.145,1.731,0.599
+"NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufv3 PE=3 SV=1",0.073,0.084,1.057,0.049,1.16,0.073
+"Cytochrome c oxidase subunit 7C, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox7c PE=1 SV=2",0.204,0.214,0.38,0.487,0.51,0.956
+"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufa9 PE=1 SV=2",0.525,7.873,1,0.577,0.174,5.776
+Beta-enolase OS=Rattus norvegicus OX=10116 GN=Eno3 PE=1 SV=3,0.056,1.124,1,0.182,1,1
+GTP-binding nuclear protein Ran OS=Rattus norvegicus OX=10116 GN=Ran PE=1 SV=3,0.548,0.771,1.159,0.957,1.131,0.802
+"4-aminobutyrate aminotransferase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Abat PE=1 SV=3",0.524,0.828,0.968,0.473,0.686,0.683
+Hemopexin OS=Rattus norvegicus OX=10116 GN=Hpx PE=1 SV=3,2.178,1.036,1.522,19.033,13.324,1.371
+"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufa10 PE=1 SV=1",0.445,0.825,1.266,0.717,1.045,0.623
+"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial OS=Rattus norvegicus OX=10116 GN=Sdha PE=1 SV=1",0.483,0.704,1.111,0.704,0.919,0.68
+Serine protease inhibitor A3K OS=Rattus norvegicus OX=10116 GN=Serpina3k PE=1 SV=3,0.661,1.112,1.801,2.542,2.875,0.948
+AP-2 complex subunit mu OS=Rattus norvegicus OX=10116 GN=Ap2m1 PE=1 SV=1,0.449,0.599,0.87,0.749,1.48,0.503
+"ATP synthase membrane subunit K, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5mk PE=1 SV=1",,,,,,
+"Succinate-semialdehyde dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Aldh5a1 PE=1 SV=2",0.279,0.895,1.355,0.832,1.485,0.713
+"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial OS=Rattus norvegicus OX=10116 GN=Idh3B PE=2 SV=1",0.491,0.686,0.855,0.661,1.04,0.616
+"Keratin, type II cytoskeletal 75 OS=Rattus norvegicus OX=10116 GN=Krt75 PE=3 SV=2",0.982,1.325,1.19,0.693,0.784,0.463
+Serine/threonine-protein phosphatase 2B catalytic subunit beta isoform OS=Rattus norvegicus OX=10116 GN=Ppp3cb PE=1 SV=1,0.447,0.674,0.145,0.058,0.149,1
+Phosphatidylethanolamine-binding protein 1 OS=Homo sapiens OX=9606 GN=PEBP1 PE=1 SV=3,1,1,1,1,1,0.867
+"ATP synthase subunit f, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5mf PE=1 SV=1",0.319,0.653,0.697,0.405,0.811,0.446
+Alpha-actinin-1 OS=Rattus norvegicus OX=10116 GN=Actn1 PE=1 SV=1,0.329,0.676,0.766,0.643,0.954,0.884
+Growth factor receptor-bound protein 2 OS=Rattus norvegicus OX=10116 GN=Grb2 PE=1 SV=1,0.4,7.249,1,0.323,0.157,9.577
+"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pdha1 PE=1 SV=2",0.425,0.67,0.7,0.479,0.792,0.719
+Amphiphysin OS=Rattus norvegicus OX=10116 GN=Amph PE=1 SV=1,0.492,0.634,0.883,0.606,1.262,0.709
+Rho-related GTP-binding protein RhoB OS=Rattus norvegicus OX=10116 GN=Rhob PE=1 SV=1,0.038,0.039,0.495,0.378,0.953,0.625
+Murinoglobulin-1 OS=Rattus norvegicus OX=10116 GN=Mug1 PE=2 SV=1,1.644,1.919,1.183,2.441,1.925,0.776
+Calcium/calmodulin-dependent protein kinase type II subunit delta OS=Rattus norvegicus OX=10116 GN=Camk2d PE=1 SV=1,0.569,0.457,0.747,1.18,2.132,0.56
+Alpha-1-macroglobulin OS=Rattus norvegicus OX=10116 GN=A1m PE=1 SV=1,3.653,1.69,2.242,24.949,9.298,1.812
+Neurogranin OS=Rattus norvegicus OX=10116 GN=Nrgn PE=1 SV=1,0.206,0.277,0.453,0.208,0.44,0.473
+Fumarylacetoacetate hydrolase domain-containing protein 2 OS=Rattus norvegicus OX=10116 GN=Fahd2 PE=1 SV=1,0.71,0.702,0.955,0.73,0.854,0.638
+Large ribosomal subunit protein uL29 OS=Rattus norvegicus OX=10116 GN=Rpl35 PE=1 SV=3,0.555,0.67,2.449,0.895,2.94,0.321
+Lactoylglutathione lyase OS=Rattus norvegicus OX=10116 GN=Glo1 PE=1 SV=3,0.525,0.647,0.824,0.811,1.404,0.631
+Glutathione S-transferase omega-1 OS=Rattus norvegicus OX=10116 GN=Gsto1 PE=1 SV=2,0.715,0.888,0.91,0.587,1.107,0.53
+Ras-related protein Rab-3C OS=Rattus norvegicus OX=10116 GN=Rab3c PE=1 SV=1,0.973,100,100,1,11.967,0.061
+Elongation factor 1-alpha 2 OS=Rattus norvegicus OX=10116 GN=Eef1a2 PE=1 SV=1,0.048,0.368,1,1,1,0.478
+Cell division control protein 42 homolog OS=Rattus norvegicus OX=10116 GN=Cdc42 PE=1 SV=2,0.435,0.564,0.653,0.75,0.909,0.822
+ADP-ribosylation factor 5 OS=Rattus norvegicus OX=10116 GN=Arf5 PE=1 SV=2,0.01,0.01,1,0.01,1,0.01
+T-kininogen 1 OS=Rattus norvegicus OX=10116 GN=Map1 PE=1 SV=2,1.142,1.116,2.187,0.873,1.395,1.13
+Purine nucleoside phosphorylase OS=Rattus norvegicus OX=10116 GN=Pnp PE=1 SV=1,0.876,0.592,1.201,0.57,1.586,0.564
+Clathrin light chain A OS=Rattus norvegicus OX=10116 GN=Clta PE=1 SV=1,0.362,0.791,1.027,0.561,0.879,0.714
+Ras-related protein Rab-7a OS=Rattus norvegicus OX=10116 GN=Rab7a PE=1 SV=2,0.407,0.639,0.01,0.056,0.143,1
+"Complement component 1 Q subcomponent-binding protein, mitochondrial OS=Rattus norvegicus OX=10116 GN=C1qbp PE=1 SV=2",0.429,0.692,1.477,0.057,1.256,0.073
+Ig heavy chain V region IR2 OS=Rattus norvegicus OX=10116 PE=4 SV=1,5.755,1.107,3.05,16.048,20.939,0.714
+Complement C1q subcomponent subunit C OS=Rattus norvegicus OX=10116 GN=C1qc PE=1 SV=2,17.167,1.168,0.9,100,100,1.34
+"Thioredoxin-dependent peroxide reductase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Prdx3 PE=1 SV=2",0.719,0.834,1.095,0.662,1.09,0.567
+CaM kinase-like vesicle-associated protein OS=Rattus norvegicus OX=10116 GN=Camkv PE=1 SV=1,0.329,0.397,0.381,0.369,0.673,0.631
+Large ribosomal subunit protein eL43 OS=Rattus norvegicus OX=10116 GN=Rpl37a PE=1 SV=2,0.571,0.46,1.091,0.693,1.441,0.488
+Transaldolase OS=Rattus norvegicus OX=10116 GN=Taldo1 PE=1 SV=2,0.789,0.674,0.748,1.311,1.409,0.89
+Dihydropteridine reductase OS=Rattus norvegicus OX=10116 GN=Qdpr PE=1 SV=1,1.321,1.685,0.225,0.911,0.352,2.144
+Small ribosomal subunit protein uS4 OS=Rattus norvegicus OX=10116 GN=Rps9 PE=1 SV=4,0.357,0.649,1.38,0.84,1.572,0.541
+"Glycogen phosphorylase, muscle form OS=Rattus norvegicus OX=10116 GN=Pygm PE=1 SV=5",0.363,0.636,0.01,5.007,1,100
+Glia maturation factor beta OS=Rattus norvegicus OX=10116 GN=Gmfb PE=1 SV=2,0.931,0.732,0.957,0.92,1.246,0.738
+"Keratin, type I cytoskeletal 10 OS=Rattus norvegicus OX=10116 GN=Krt10 PE=3 SV=1",,,,,,
+"Enoyl-CoA hydratase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Echs1 PE=1 SV=1",0.361,0.422,0.168,0.185,1,1
+Sideroflexin-3 OS=Rattus norvegicus OX=10116 GN=Sfxn3 PE=2 SV=2,0.353,0.508,0.778,0.546,1.039,0.471
+Histone H3.3 OS=Rattus norvegicus OX=10116 GN=H3-3b PE=1 SV=2,1.196,0.735,1.383,0.926,1.631,0.576
+Large ribosomal subunit protein eL13 OS=Rattus norvegicus OX=10116 GN=Rpl13 PE=1 SV=2,0.485,0.665,0.704,1.082,1.009,0.804
+Proteasome subunit beta type-1 OS=Rattus norvegicus OX=10116 GN=Psmb1 PE=1 SV=3,0.373,0.738,0.238,6.908,1,6.131
+Glyoxalase domain-containing protein 4 OS=Rattus norvegicus OX=10116 GN=Glod4 PE=1 SV=1,0.36,7.678,1,0.321,1,1
+F-actin-capping protein subunit alpha-2 OS=Rattus norvegicus OX=10116 GN=Capza2 PE=1 SV=1,0.418,0.775,0.612,0.73,0.882,1.062
+Calcium/calmodulin-dependent protein kinase type II subunit gamma OS=Rattus norvegicus OX=10116 GN=Camk2g PE=1 SV=1,0.315,0.478,0.083,0.407,1,1
+Ras-related protein Rap-1A OS=Rattus norvegicus OX=10116 GN=Rap1a PE=1 SV=1,0.534,0.707,1.345,0.907,1.71,0.937
+Mitochondrial 2-oxoglutarate/malate carrier protein OS=Rattus norvegicus OX=10116 GN=Slc25a11 PE=1 SV=3,0.377,0.593,1.054,0.603,1.089,0.554
+Ras-related protein Rab-35 OS=Rattus norvegicus OX=10116 GN=Rab35 PE=1 SV=1,0.048,0.399,1,1,1,0.62
+Mitogen-activated protein kinase 1 OS=Rattus norvegicus OX=10116 GN=Mapk1 PE=1 SV=3,0.313,0.638,0.143,0.588,0.158,6.865
+Microtubule-associated protein tau OS=Rattus norvegicus OX=10116 GN=Mapt PE=1 SV=3,0.724,0.806,0.872,0.529,0.797,0.722
+Parathymosin OS=Rattus norvegicus OX=10116 GN=Ptms PE=1 SV=2,0.423,0.504,0.776,0.611,0.919,0.728
+Alpha-actinin-4 OS=Rattus norvegicus OX=10116 GN=Actn4 PE=1 SV=2,0.539,1.093,0.227,0.5,0.277,4.389
+Phytanoyl-CoA hydroxylase-interacting protein OS=Rattus norvegicus OX=10116 GN=Phyhip PE=2 SV=1,0.447,0.688,0.799,0.635,1.012,0.808
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5 OS=Rattus norvegicus OX=10116 GN=Ndufa5 PE=1 SV=3,0.053,0.569,1,0.054,0.159,1
+Annexin A5 OS=Rattus norvegicus OX=10116 GN=Anxa5 PE=1 SV=3,0.473,0.561,0.498,0.75,0.625,1.263
+Secernin-1 OS=Rattus norvegicus OX=10116 GN=Scrn1 PE=1 SV=1,0.577,0.593,0.769,0.708,1.09,0.812
+Solute carrier family 25 member 3 OS=Rattus norvegicus OX=10116 GN=Slc25a3 PE=1 SV=1,0.58,0.922,0.892,0.471,0.907,0.658
+Actin-related protein 3 OS=Rattus norvegicus OX=10116 GN=Actr3 PE=1 SV=1,0.421,0.713,0.151,0.421,0.153,5.266
+Guanine nucleotide-binding protein G(i) subunit alpha-1 OS=Rattus norvegicus OX=10116 GN=Gnai1 PE=1 SV=3,0.301,0.492,1.063,0.599,1.095,0.758
+Heterogeneous nuclear ribonucleoprotein A1 OS=Rattus norvegicus OX=10116 GN=Hnrnpa1 PE=1 SV=3,0.661,0.758,0.831,1.378,0.87,1.355
+V-type proton ATPase 116 kDa subunit a 1 OS=Rattus norvegicus OX=10116 GN=Atp6v0a1 PE=1 SV=1,0.337,0.594,0.933,0.57,0.897,0.644
+Plasma membrane calcium-transporting ATPase 1 OS=Rattus norvegicus OX=10116 GN=Atp2b1 PE=1 SV=3,0.395,7.064,5.527,0.206,0.256,0.628
+Proteasome subunit alpha type-3 OS=Rattus norvegicus OX=10116 GN=Psma3 PE=1 SV=3,0.355,0.426,0.125,0.613,0.159,6.714
+Septin-7 OS=Rattus norvegicus OX=10116 GN=Septin7 PE=1 SV=1,0.339,0.563,0.746,0.753,0.839,0.884
+Small ribosomal subunit protein uS10 OS=Rattus norvegicus OX=10116 GN=Rps20 PE=1 SV=1,0.898,0.859,1.462,1.113,2.24,0.656
+Acidic leucine-rich nuclear phosphoprotein 32 family member A OS=Rattus norvegicus OX=10116 GN=Anp32a PE=2 SV=1,0.666,1.067,0.568,1.339,0.729,3.705
+Coactosin-like protein OS=Rattus norvegicus OX=10116 GN=Cotl1 PE=1 SV=1,0.777,0.892,0.816,1.794,1.355,1.12
+Cathepsin G OS=Rattus norvegicus OX=10116 GN=Ctsg PE=1 SV=2,100,100,100,100,100,5.85
+Small ribosomal subunit protein eS25 OS=Rattus norvegicus OX=10116 GN=Rps25 PE=2 SV=1,0.547,0.614,0.569,0.801,0.924,0.867
+Voltage-dependent anion-selective channel protein 2 OS=Rattus norvegicus OX=10116 GN=Vdac2 PE=1 SV=2,0.375,0.733,1.168,0.598,1.04,0.526
+2-oxoglutarate dehydrogenase complex component E1 OS=Rattus norvegicus OX=10116 GN=Ogdh PE=1 SV=1,0.418,6.556,1,0.23,0.01,7.019
+Elongation factor 2 OS=Rattus norvegicus OX=10116 GN=Eef2 PE=1 SV=4,0.521,0.7,1.093,0.862,0.992,0.974
+Ubiquitin-like modifier-activating enzyme 1 OS=Rattus norvegicus OX=10116 GN=Uba1 PE=1 SV=1,0.373,0.525,1.457,0.553,1.309,0.58
+Dynein light chain roadblock-type 1 OS=Rattus norvegicus OX=10116 GN=Dynlrb1 PE=1 SV=3,0.01,0.01,1,0.784,1,1
+Ras-related protein Rab-5A OS=Rattus norvegicus OX=10116 GN=Rab5a PE=2 SV=1,0.624,0.604,0.01,0.01,0.167,0.01
+Carbonic anhydrase 1 OS=Rattus norvegicus OX=10116 GN=Ca1 PE=1 SV=1,15.419,2.016,1.328,12.754,8.716,1.187
+Cell adhesion molecule 3 OS=Rattus norvegicus OX=10116 GN=Cadm3 PE=1 SV=1,0.347,0.33,0.464,0.366,0.578,0.631
+Chronophin OS=Rattus norvegicus OX=10116 GN=Pdxp PE=1 SV=2,0.659,0.664,1.196,0.047,1.75,0.071
+Proteasome subunit alpha type-1 OS=Rattus norvegicus OX=10116 GN=Psma1 PE=1 SV=2,0.486,0.276,0.696,1.127,0.859,1.06
+Acylphosphatase-2 OS=Rattus norvegicus OX=10116 GN=Acyp2 PE=1 SV=2,0.618,7.552,7.757,0.621,0.906,0.686
+Beta-soluble NSF attachment protein OS=Rattus norvegicus OX=10116 GN=Napb PE=1 SV=1,0.804,0.778,0.678,0.737,0.783,0.992
+Translationally-controlled tumor protein OS=Rattus norvegicus OX=10116 GN=Tpt1 PE=1 SV=1,0.431,0.402,0.865,1.325,1.22,1.078
+Neuroplastin OS=Rattus norvegicus OX=10116 GN=Nptn PE=1 SV=2,0.375,0.461,0.554,0.55,0.639,0.721
+"Dynein light chain 1, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Dynll1 PE=1 SV=1",0.815,1.353,1.496,0.798,1.538,0.897
+Aldo-keto reductase family 1 member B1 OS=Rattus norvegicus OX=10116 GN=Akr1b1 PE=1 SV=3,0.752,0.693,0.792,1.033,1.018,0.944
+Voltage-dependent anion-selective channel protein 3 OS=Rattus norvegicus OX=10116 GN=Vdac3 PE=1 SV=2,0.235,0.241,0.452,0.59,0.612,0.892
+Large ribosomal subunit protein eL28 OS=Rattus norvegicus OX=10116 GN=Rpl28 PE=1 SV=4,0.712,0.376,0.901,0.944,1.755,0.58
+"Fatty acid-binding protein, heart OS=Rattus norvegicus OX=10116 GN=Fabp3 PE=1 SV=2",5.901,10.032,0.01,0.559,0.01,100
+Cytosolic acyl coenzyme A thioester hydrolase OS=Rattus norvegicus OX=10116 GN=Acot7 PE=1 SV=4,0.578,0.812,1.008,0.812,1.321,0.578
+Small ribosomal subunit protein uS12 OS=Rattus norvegicus OX=10116 GN=Rps23 PE=1 SV=3,0.391,0.569,1.147,1.207,2.495,0.463
+Inositol monophosphatase 1 OS=Rattus norvegicus OX=10116 GN=Impa1 PE=1 SV=2,0.746,0.926,0.92,0.793,1.069,0.561
+Desmoplakin OS=Rattus norvegicus OX=10116 GN=Dsp PE=1 SV=1,1.42,1.355,0.412,0.732,0.259,2.733
+Heat shock protein beta-1 OS=Rattus norvegicus OX=10116 GN=Hspb1 PE=1 SV=1,100,0.831,1.014,100,100,1.336
+Plasma membrane calcium-transporting ATPase 4 OS=Rattus norvegicus OX=10116 GN=Atp2b4 PE=1 SV=1,0.428,0.726,1.265,0.721,1.474,0.743
+Plasma membrane calcium-transporting ATPase 2 OS=Rattus norvegicus OX=10116 GN=Atp2b2 PE=1 SV=2,0.389,0.637,0.84,0.511,0.782,0.678
+Heat shock protein 105 kDa OS=Rattus norvegicus OX=10116 GN=Hsph1 PE=1 SV=1,0.268,0.448,0.154,0.989,0.214,7.573
+Vimentin OS=Rattus norvegicus OX=10116 GN=Vim PE=1 SV=2,0.847,0.814,1.463,1.382,1.432,0.924
+Cell adhesion molecule 2 OS=Rattus norvegicus OX=10116 GN=Cadm2 PE=1 SV=2,0.364,0.403,0.686,0.398,0.686,0.58
+Protein dpy-30 homolog OS=Rattus norvegicus OX=10116 GN=Dpy30 PE=1 SV=1,,,,,,
+Heat shock 70 kDa protein 4 OS=Rattus norvegicus OX=10116 GN=Hspa4 PE=1 SV=1,0.354,0.626,1.453,0.636,1.192,0.509
+Platelet-activating factor acetylhydrolase IB subunit alpha2 OS=Rattus norvegicus OX=10116 GN=Pafah1b2 PE=1 SV=1,0.525,0.478,0.701,0.7,1.045,0.7
+V-type proton ATPase 16 kDa proteolipid subunit c OS=Rattus norvegicus OX=10116 GN=Atp6v0c PE=1 SV=1,0.01,,,0.01,0.01,
+Ras-related protein Ral-A OS=Rattus norvegicus OX=10116 GN=Rala PE=1 SV=1,0.581,0.692,0.146,0.4,0.15,6.078
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufs2 PE=1 SV=1",0.308,0.35,0.277,0.909,0.77,0.64
+LIM and SH3 domain protein 1 OS=Rattus norvegicus OX=10116 GN=Lasp1 PE=1 SV=1,0.607,0.655,0.559,0.587,0.605,0.765
+Neurocalcin-delta OS=Rattus norvegicus OX=10116 GN=Ncald PE=1 SV=3,0.01,0.01,0.01,0.01,0.01,
+Small ribosomal subunit protein uS14 OS=Rattus norvegicus OX=10116 GN=Rps29 PE=1 SV=2,0.725,0.687,2.515,0.179,1.527,0.073
+Histone H1.4 OS=Rattus norvegicus OX=10116 GN=H1-4 PE=1 SV=3,0.658,0.565,1.41,0.472,1.598,0.365
+Stress-induced-phosphoprotein 1 OS=Rattus norvegicus OX=10116 GN=Stip1 PE=1 SV=1,0.454,0.573,0.687,0.639,1.064,0.521
+Mitochondrial glutamate carrier 1 OS=Rattus norvegicus OX=10116 GN=Slc25a22 PE=2 SV=1,0.425,0.595,0.55,0.725,0.925,0.784
+Cytochrome c oxidase subunit 2 OS=Rattus norvegicus OX=10116 GN=Mt-co2 PE=1 SV=3,0.359,0.706,1.17,0.619,1.075,0.552
+Complement C1q subcomponent subunit B OS=Rattus norvegicus OX=10116 GN=C1qb PE=1 SV=2,4.266,1.084,1.047,8.287,19.105,0.901
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1 OS=Rattus norvegicus OX=10116 GN=Ndufb1 PE=3 SV=1,0.724,6.805,5.474,5.376,5.234,0.434
+Excitatory amino acid transporter 1 OS=Rattus norvegicus OX=10116 GN=Slc1a3 PE=1 SV=2,0.257,0.252,0.615,0.539,0.616,0.876
+Alpha-centractin OS=Rattus norvegicus OX=10116 GN=Actr1a PE=1 SV=1,0.172,0.054,0.106,0.369,1,1
+"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ndufs6 PE=3 SV=1",0.686,0.871,1.306,0.697,1.025,0.68
+Calnexin OS=Rattus norvegicus OX=10116 GN=Canx PE=1 SV=1,0.608,0.609,0.682,0.768,1.347,0.587
+Myelin proteolipid protein OS=Rattus norvegicus OX=10116 GN=Plp1 PE=1 SV=2,1.688,0.812,1.054,0.484,0.703,0.651
+Neurotrimin OS=Rattus norvegicus OX=10116 GN=Ntm PE=1 SV=1,0.424,1.258,2.272,0.395,1.035,0.643
+"3'(2'),5'-bisphosphate nucleotidase 1 OS=Rattus norvegicus OX=10116 GN=Bpnt1 PE=1 SV=1",0.644,0.787,0.186,1.397,0.254,5.815
+"Aldehyde dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Aldh2 PE=1 SV=1",0.38,0.665,1.28,0.596,1.033,0.577
+"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial OS=Rattus norvegicus OX=10116 GN=Sdhb PE=2 SV=2",0.472,0.696,1.059,0.724,1.246,0.622
+NSFL1 cofactor p47 OS=Rattus norvegicus OX=10116 GN=Nsfl1c PE=1 SV=1,0.758,0.662,3.47,0.791,1.814,0.602
+AP-2 complex subunit beta OS=Rattus norvegicus OX=10116 GN=Ap2b1 PE=1 SV=1,0.38,0.675,0.644,0.686,0.637,0.669
+Neuron-specific calcium-binding protein hippocalcin OS=Rattus norvegicus OX=10116 GN=Hpca PE=1 SV=2,0.424,0.852,0.588,0.55,0.733,0.831
+Complement C3 OS=Rattus norvegicus OX=10116 GN=C3 PE=1 SV=3,1.911,1.498,3.504,3.563,3.56,0.457
+Tenascin-R OS=Rattus norvegicus OX=10116 GN=Tnr PE=1 SV=1,0.35,0.829,0.607,0.607,0.83,0.589
+Myc box-dependent-interacting protein 1 OS=Rattus norvegicus OX=10116 GN=Bin1 PE=1 SV=1,0.66,0.586,0.873,0.678,1.021,0.629
+"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial OS=Rattus norvegicus OX=10116 GN=Dlst PE=1 SV=2",0.439,0.777,0.793,0.603,0.819,0.659
+Endophilin-B2 OS=Rattus norvegicus OX=10116 GN=Sh3glb2 PE=1 SV=2,0.661,0.596,1.404,0.946,1.675,0.744
+"ATP-dependent 6-phosphofructokinase, liver type OS=Rattus norvegicus OX=10116 GN=Pfkl PE=1 SV=3",0.433,0.608,3.468,0.95,1.15,0.307
+Microtubule-associated proteins 1A/1B light chain 3A OS=Rattus norvegicus OX=10116 GN=Map1lc3a PE=1 SV=1,0.404,0.996,0.18,0.571,0.156,8.949
+Solute carrier family 12 member 5 OS=Rattus norvegicus OX=10116 GN=Slc12a5 PE=1 SV=2,0.358,0.588,1.172,0.17,1.31,
+"ATP synthase subunit delta, mitochondrial OS=Rattus norvegicus OX=10116 GN=Atp5f1d PE=1 SV=2",0.824,0.9,0.903,0.649,0.94,0.676
+Saccharopine dehydrogenase-like oxidoreductase OS=Rattus norvegicus OX=10116 GN=Sccpdh PE=1 SV=1,0.055,0.372,1,0.01,1,0.01
+Dihydropyrimidinase-related protein 3 OS=Rattus norvegicus OX=10116 GN=Dpysl3 PE=1 SV=2,0.629,0.577,0.01,0.366,1,1
+Tyrosine-protein phosphatase non-receptor type substrate 1 OS=Rattus norvegicus OX=10116 GN=Sirpa PE=1 SV=1,0.754,0.674,1.067,0.573,1,0.56
+Heterogeneous nuclear ribonucleoprotein K OS=Rattus norvegicus OX=10116 GN=Hnrnpk PE=1 SV=1,0.399,5.661,1,0.964,0.181,7.268
+Actin-related protein 2/3 complex subunit 5-like protein OS=Rattus norvegicus OX=10116 GN=Arpc5l PE=1 SV=2,0.316,0.544,0.82,0.793,1.216,0.604
+Homer protein homolog 1 OS=Rattus norvegicus OX=10116 GN=Homer1 PE=1 SV=2,0.182,0.051,0.041,6.722,0.311,10.163
+Mitochondrial import inner membrane translocase subunit Tim9 OS=Rattus norvegicus OX=10116 GN=Timm9 PE=1 SV=3,0.075,0.096,1.633,6.4,9.26,0.428
+Syntaxin-12 OS=Rattus norvegicus OX=10116 GN=Stx12 PE=1 SV=1,1,0.479,0.01,0.06,0.01,1
+Small ribosomal subunit protein eS1 OS=Rattus norvegicus OX=10116 GN=Rps3a PE=1 SV=2,0.523,0.706,1.173,1.145,1.92,0.604
+Secretory carrier-associated membrane protein 1 OS=Rattus norvegicus OX=10116 GN=Scamp1 PE=1 SV=1,0.102,0.182,0.01,0.01,0.01,
+Neuronal membrane glycoprotein M6-a OS=Rattus norvegicus OX=10116 GN=Gpm6a PE=1 SV=1,0.635,0.833,0.811,0.546,0.806,0.944
+Glutathione S-transferase Mu 5 OS=Rattus norvegicus OX=10116 GN=Gstm5 PE=1 SV=3,6.47,1.043,0.732,0.254,0.247,1.03
+Adenosylhomocysteinase OS=Rattus norvegicus OX=10116 GN=Ahcy PE=1 SV=3,0.472,0.775,1.24,1.002,1.336,0.668
+AP-2 complex subunit alpha-2 OS=Rattus norvegicus OX=10116 GN=Ap2a2 PE=1 SV=3,0.358,0.801,1.056,0.964,1.231,0.718
+Destrin OS=Rattus norvegicus OX=10116 GN=Dstn PE=1 SV=3,0.429,0.066,0.153,0.511,1,1
+"Cytochrome c oxidase subunit 6A1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox6a1 PE=1 SV=2",0.149,0.271,0.709,0.053,0.503,0.118
+Cell adhesion molecule 1 OS=Rattus norvegicus OX=10116 GN=Cadm1 PE=1 SV=1,0.169,0.16,0.085,3.189,1,10.149
+CD166 antigen OS=Rattus norvegicus OX=10116 GN=Alcam PE=1 SV=1,0.33,7.423,5.15,0.544,0.808,0.422
+Drebrin OS=Rattus norvegicus OX=10116 GN=Dbn1 PE=1 SV=3,0.441,0.475,1.248,1.053,1.533,0.645
+Paralemmin-1 OS=Rattus norvegicus OX=10116 GN=Palm PE=1 SV=1,0.387,0.922,0.573,0.216,0.653,1.221
+Membrane-associated progesterone receptor component 1 OS=Rattus norvegicus OX=10116 GN=Pgrmc1 PE=1 SV=3,0.511,0.535,0.847,0.763,1.376,0.604
+Clathrin coat assembly protein AP180 OS=Rattus norvegicus OX=10116 GN=Snap91 PE=1 SV=1,0.32,0.508,0.63,0.587,0.79,0.532
+NAD-dependent protein deacetylase sirtuin-2 OS=Rattus norvegicus OX=10116 GN=Sirt2 PE=1 SV=1,0.72,6.333,6.05,0.561,0.985,0.57
+Heterogeneous nuclear ribonucleoprotein A3 OS=Rattus norvegicus OX=10116 GN=Hnrnpa3 PE=1 SV=1,1,1,1,0.01,1,0.01
+Microtubule-associated protein 1A OS=Rattus norvegicus OX=10116 GN=Map1a PE=1 SV=1,0.472,0.594,0.767,0.517,0.752,0.725
+Ubiquitin thioesterase OTUB1 OS=Rattus norvegicus OX=10116 GN=Otub1 PE=1 SV=1,0.281,0.643,0.01,1,1,0.398
+EF-hand domain-containing protein D2 OS=Rattus norvegicus OX=10116 GN=Efhd2 PE=1 SV=1,1.05,1.046,0.102,0.838,0.135,10.581
+Cysteine-rich protein 2 OS=Rattus norvegicus OX=10116 GN=Crip2 PE=2 SV=1,,,,,,
+Guanine nucleotide-binding protein G(i) subunit alpha-2 OS=Rattus norvegicus OX=10116 GN=Gnai2 PE=1 SV=3,0.01,0.01,0.01,0.01,0.01,
+Myristoylated alanine-rich C-kinase substrate OS=Rattus norvegicus OX=10116 GN=Marcks PE=1 SV=2,0.618,0.789,0.968,0.911,1.144,0.828
+Platelet-activating factor acetylhydrolase IB subunit alpha OS=Rattus norvegicus OX=10116 GN=Pafah1b1 PE=1 SV=2,0.517,0.847,0.18,0.856,0.198,6.814
+Ras-related protein Rab-13 OS=Rattus norvegicus OX=10116 GN=Rab13 PE=1 SV=2,,,,,,
+OX-2 membrane glycoprotein OS=Rattus norvegicus OX=10116 GN=Cd200 PE=2 SV=1,0.285,0.494,0.852,0.763,1.236,0.749
+Mitochondrial import inner membrane translocase subunit Tim13 OS=Rattus norvegicus OX=10116 GN=Timm13 PE=3 SV=1,,,,,,
+Small ribosomal subunit protein uS17 OS=Rattus norvegicus OX=10116 GN=Rps11 PE=1 SV=3,0.92,0.747,1.591,0.825,1.936,0.552
+Ras-related protein Rab-6A OS=Rattus norvegicus OX=10116 GN=Rab6a PE=1 SV=2,0.01,1,1,1,1,1.506
+Small ribosomal subunit protein uS9 OS=Rattus norvegicus OX=10116 GN=Rps16 PE=1 SV=2,0.466,0.74,1.684,1.221,2.009,0.543
+Neuronal cell adhesion molecule OS=Rattus norvegicus OX=10116 GN=Nrcam PE=1 SV=2,0.538,0.345,0.796,0.435,,0.421
+ProSAAS OS=Rattus norvegicus OX=10116 GN=Pcsk1n PE=1 SV=1,0.071,0.088,0.938,0.899,1.311,0.783
+Adenylyl cyclase-associated protein 1 OS=Rattus norvegicus OX=10116 GN=Cap1 PE=1 SV=3,0.01,0.01,1,0.01,1,0.01
+Proteasome subunit alpha type-2 OS=Rattus norvegicus OX=10116 GN=Psma2 PE=1 SV=3,0.01,0.01,0.01,0.522,0.01,100
+Serine protease inhibitor A3L OS=Rattus norvegicus OX=10116 GN=Serpina3l PE=1 SV=3,1.626,0.994,1.18,3.034,1.727,0.976
+Large ribosomal subunit protein P1 OS=Rattus norvegicus OX=10116 GN=Rplp1 PE=3 SV=1,,,,,,
+Neurofascin OS=Rattus norvegicus OX=10116 GN=Nfasc PE=1 SV=2,0.36,0.464,0.569,0.618,0.718,0.713
+Src substrate cortactin OS=Rattus norvegicus OX=10116 GN=Cttn PE=1 SV=1,0.241,0.397,0.711,0.697,0.986,0.976
+Ubiquitin-conjugating enzyme E2 variant 2 OS=Rattus norvegicus OX=10116 GN=Ube2v2 PE=1 SV=3,0.392,0.793,0.089,4.562,1,9.893
+Calbindin OS=Rattus norvegicus OX=10116 GN=Calb1 PE=1 SV=2,0.468,0.634,1.011,0.062,1.342,0.078
+Synaptophysin OS=Rattus norvegicus OX=10116 GN=Syp PE=1 SV=1,0.307,0.526,0.802,0.447,0.575,0.77
+T-complex protein 1 subunit beta OS=Rattus norvegicus OX=10116 GN=Cct2 PE=1 SV=3,0.249,4.655,1,0.087,0.147,1
+Annexin A3 OS=Rattus norvegicus OX=10116 GN=Anxa3 PE=1 SV=4,0.826,0.659,0.185,11.412,1,7.258
+Urotensin-2B OS=Rattus norvegicus OX=10116 GN=Uts2b PE=1 SV=1,,,,,,
+Hippocalcin-like protein 1 OS=Rattus norvegicus OX=10116 GN=Hpcal1 PE=1 SV=2,0.222,0.737,0.01,0.01,0.01,
+Band 4.1-like protein 1 OS=Rattus norvegicus OX=10116 GN=Epb41l1 PE=1 SV=1,0.624,0.519,0.836,0.832,1.483,0.824
+Histone H1.0 OS=Rattus norvegicus OX=10116 GN=H1-0 PE=2 SV=2,0.037,0.041,4.974,0.085,2.078,0.01
+Prothymosin alpha OS=Rattus norvegicus OX=10116 GN=Ptma PE=1 SV=2,1.163,0.663,0.863,0.878,1.096,0.801
+Large ribosomal subunit protein eL24 OS=Rattus norvegicus OX=10116 GN=Rpl24 PE=2 SV=1,0.314,0.555,1.238,0.079,1.209,0.046
+Small ribosomal subunit protein eS6 OS=Rattus norvegicus OX=10116 GN=Rps6 PE=1 SV=1,0.387,0.487,0.876,0.851,1.151,0.759
+Vesicle-associated membrane protein-associated protein A OS=Rattus norvegicus OX=10116 GN=Vapa PE=1 SV=3,0.451,0.636,0.683,0.049,0.974,0.083
+Guanine nucleotide-binding protein subunit beta-4 OS=Rattus norvegicus OX=10116 GN=Gnb4 PE=2 SV=4,,,,,,
+Coronin-1A OS=Rattus norvegicus OX=10116 GN=Coro1a PE=1 SV=3,0.333,0.664,0.834,0.824,1.006,0.803
+Guanine nucleotide-binding protein G(q) subunit alpha OS=Rattus norvegicus OX=10116 GN=Gnaq PE=2 SV=2,0.223,6.055,1,1,1,0.412
+Proteasome subunit beta type-6 OS=Rattus norvegicus OX=10116 GN=Psmb6 PE=1 SV=3,0.82,0.738,0.827,0.64,0.983,0.317
+Vitamin D-binding protein OS=Rattus norvegicus OX=10116 GN=Gc PE=1 SV=3,11.649,1.098,2.478,100,100,0.755
+Eukaryotic translation initiation factor 5A-1 OS=Rattus norvegicus OX=10116 GN=Eif5a PE=1 SV=3,0.287,0.531,0.896,0.531,0.75,0.632
+Transgelin OS=Rattus norvegicus OX=10116 GN=Tagln PE=1 SV=2,1.293,8.816,12.195,0.571,9.682,0.078
+Basigin OS=Rattus norvegicus OX=10116 GN=Bsg PE=1 SV=2,0.539,0.675,0.78,0.612,0.941,0.629
+T-complex protein 1 subunit gamma OS=Rattus norvegicus OX=10116 GN=Cct3 PE=1 SV=1,0.442,0.703,0.061,0.461,0.045,11.01
+Cytosolic non-specific dipeptidase OS=Rattus norvegicus OX=10116 GN=Cndp2 PE=1 SV=1,0.68,0.993,0.966,0.99,1.247,0.676
+H/ACA ribonucleoprotein complex subunit 1 OS=Rattus norvegicus OX=10116 GN=Gar1 PE=2 SV=1,0.316,0.171,0.112,0.348,0.108,3.15
+Phospholysine phosphohistidine inorganic pyrophosphate phosphatase OS=Rattus norvegicus OX=10116 GN=Lhpp PE=2 SV=1,0.456,5.285,1,0.058,0.202,1
+Actin-related protein 2/3 complex subunit 5 OS=Rattus norvegicus OX=10116 GN=Arpc5 PE=1 SV=3,0.49,0.709,0.132,0.951,0.139,8.31
+Ras-related protein Rap-2b OS=Rattus norvegicus OX=10116 GN=Rap2b PE=2 SV=1,0.501,7.328,1,0.01,1,0.01
+Tropomodulin-2 OS=Rattus norvegicus OX=10116 GN=Tmod2 PE=1 SV=1,0.602,0.756,0.64,0.613,0.651,0.942
+Reticulon-1 OS=Rattus norvegicus OX=10116 GN=Rtn1 PE=1 SV=1,0.55,0.793,0.771,0.708,0.771,0.916
+Thiosulfate sulfurtransferase OS=Rattus norvegicus OX=10116 GN=Tst PE=1 SV=3,0.062,0.392,100,7.719,13.872,0.676
+Large ribosomal subunit protein eL8 OS=Rattus norvegicus OX=10116 GN=Rpl7a PE=1 SV=2,0.705,1.116,1.719,1.098,1.664,0.7
+Brevican core protein OS=Rattus norvegicus OX=10116 GN=Bcan PE=1 SV=2,0.409,0.774,1.113,0.462,1.015,0.44
+Bleomycin hydrolase OS=Rattus norvegicus OX=10116 GN=Blmh PE=1 SV=1,0.52,0.727,0.602,1.249,0.878,1.272
+"Keratin, type II cytoskeletal 1b OS=Rattus norvegicus OX=10116 GN=Krt77 PE=3 SV=1",1,100,,100,,100
+"Glutaminase kidney isoform, mitochondrial OS=Rattus norvegicus OX=10116 GN=Gls PE=1 SV=2",0.861,0.771,0.52,0.644,0.718,0.949
+Alpha-adducin OS=Rattus norvegicus OX=10116 GN=Add1 PE=1 SV=2,0.45,0.525,0.129,0.79,0.146,6.638
+T-complex protein 1 subunit epsilon OS=Rattus norvegicus OX=10116 GN=Cct5 PE=1 SV=1,0.194,0.365,6.546,0.01,0.468,0.01
+Large ribosomal subunit protein eL29 OS=Rattus norvegicus OX=10116 GN=Rpl29 PE=1 SV=3,0.578,0.418,1.339,0.935,2.38,0.393
+Peptidyl-prolyl cis-trans isomerase D OS=Rattus norvegicus OX=10116 GN=Ppid PE=1 SV=3,0.391,0.431,0.971,0.053,1.173,0.083
+"Keratin, type II cytoskeletal 1 OS=Rattus norvegicus OX=10116 GN=Krt1 PE=2 SV=1",0.01,,,,,
+Vesicle-trafficking protein SEC22b OS=Rattus norvegicus OX=10116 GN=Sec22b PE=1 SV=3,5.723,7.385,0.01,5.449,0.01,100
+V-type proton ATPase subunit C 1 OS=Rattus norvegicus OX=10116 GN=Atp6v1c1 PE=1 SV=1,0.386,1.065,0.146,0.582,0.185,6.102
+Protein IMPACT OS=Rattus norvegicus OX=10116 GN=Impact PE=1 SV=1,1.547,1.453,1,1.944,1,1
+Endophilin-A2 OS=Rattus norvegicus OX=10116 GN=Sh3gl1 PE=1 SV=1,0.613,7,1,0.01,1,0.01
+Secretory carrier-associated membrane protein 5 OS=Rattus norvegicus OX=10116 GN=Scamp5 PE=2 SV=1,0.341,0.391,0.472,0.49,0.741,0.661
+Small ribosomal subunit protein eS7 OS=Rattus norvegicus OX=10116 GN=Rps7 PE=1 SV=1,0.419,0.784,1.257,1.13,1.916,0.557
+"Succinate--CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial OS=Rattus norvegicus OX=10116 GN=Suclg1 PE=2 SV=2",0.312,0.64,0.01,0.065,0.12,1
+Isocitrate dehydrogenase [NADP] cytoplasmic OS=Rattus norvegicus OX=10116 GN=Idh1 PE=1 SV=1,0.729,6.809,1,7.527,1,9.33
+Large ribosomal subunit protein uL24 OS=Rattus norvegicus OX=10116 GN=Rpl26 PE=1 SV=1,0.571,0.628,1.423,0.066,1.946,0.064
+Large ribosomal subunit protein eL18 OS=Rattus norvegicus OX=10116 GN=Rpl18 PE=1 SV=2,0.559,1.05,1.749,0.921,1.533,0.601
+High mobility group protein B1 OS=Rattus norvegicus OX=10116 GN=Hmgb1 PE=1 SV=2,1.146,0.641,0.6,0.769,1.05,0.932
+Heterogeneous nuclear ribonucleoprotein H2 OS=Rattus norvegicus OX=10116 GN=Hnrnph2 PE=1 SV=1,0.496,0.62,1.347,0.664,2.456,0.61
+Small ribosomal subunit protein eS8 OS=Rattus norvegicus OX=10116 GN=Rps8 PE=1 SV=2,0.722,0.888,0.129,0.825,0.135,8.565
+Endoplasmic reticulum resident protein 29 OS=Rattus norvegicus OX=10116 GN=Erp29 PE=1 SV=2,0.047,0.041,0.099,0.584,1,1
+Large ribosomal subunit protein uL30 OS=Rattus norvegicus OX=10116 GN=Rpl7 PE=1 SV=2,0.32,100,1,6.373,1,7.868
+cAMP-dependent protein kinase type II-alpha regulatory subunit OS=Rattus norvegicus OX=10116 GN=Prkar2a PE=1 SV=4,0.414,6.004,5.321,6.054,5.771,0.652
+"Isocitrate dehydrogenase [NAD] subunit gamma 1, mitochondrial OS=Rattus norvegicus OX=10116 GN=Idh3g PE=1 SV=2",0.382,0.578,0.872,0.919,0.925,0.895
+Phosphatidylinositol transfer protein alpha isoform OS=Rattus norvegicus OX=10116 GN=Pitpna PE=1 SV=2,0.378,0.499,1.355,0.558,1.732,0.235
+MARCKS-related protein OS=Rattus norvegicus OX=10116 GN=Marcksl1 PE=2 SV=3,0.2,0.224,0.447,0.685,0.661,0.892
+Neuronal growth regulator 1 OS=Rattus norvegicus OX=10116 GN=Negr1 PE=1 SV=1,0.3,0.738,1.374,0.698,1.57,0.405
+Peroxiredoxin-like 2A OS=Rattus norvegicus OX=10116 GN=Prxl2a PE=1 SV=1,,,,,,
+Small ribosomal subunit protein eS10 OS=Rattus norvegicus OX=10116 GN=Rps10 PE=1 SV=1,0.33,0.47,1.255,0.087,0.643,0.092
+Large ribosomal subunit protein eL33 OS=Rattus norvegicus OX=10116 GN=Rpl35a PE=1 SV=1,0.307,0.522,0.808,7.897,7.393,0.794
+Small ubiquitin-related modifier 3 OS=Rattus norvegicus OX=10116 GN=Sumo3 PE=3 SV=1,0.594,7.535,13.934,0.918,0.978,0.939
+Hsc70-interacting protein OS=Rattus norvegicus OX=10116 GN=St13 PE=1 SV=1,0.411,0.773,0.945,0.882,1.185,0.755
+cAMP-dependent protein kinase type II-beta regulatory subunit OS=Rattus norvegicus OX=10116 GN=Prkar2b PE=1 SV=3,0.663,0.62,0.953,1.033,1.718,0.66
+Heterogeneous nuclear ribonucleoprotein D0 OS=Rattus norvegicus OX=10116 GN=Hnrnpd PE=1 SV=2,0.051,0.754,1,7.273,0.179,9.969
+Latexin OS=Rattus norvegicus OX=10116 GN=Lxn PE=1 SV=1,1.121,0.907,1.329,0.01,2.991,0.01
+Proline-rich transmembrane protein 2 OS=Rattus norvegicus OX=10116 GN=Prrt2 PE=1 SV=1,0.656,0.51,0.819,0.61,1.169,0.701
+C-terminal-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Ctbp1 PE=1 SV=3,0.71,0.751,0.838,0.826,1.28,0.785
+Heat shock 70 kDa protein 1-like OS=Rattus norvegicus OX=10116 GN=Hspa1l PE=2 SV=2,,,,,,
+AP-2 complex subunit sigma OS=Rattus norvegicus OX=10116 GN=Ap2s1 PE=1 SV=1,0.295,0.54,0.648,1,4.977,0.075
+Adenylyl cyclase-associated protein 2 OS=Rattus norvegicus OX=10116 GN=Cap2 PE=1 SV=1,0.503,1.252,0.01,0.614,0.01,100
+Mitochondrial proton/calcium exchanger protein OS=Rattus norvegicus OX=10116 GN=Letm1 PE=1 SV=1,0.564,7.044,1,5.743,1,8.918
+Phytanoyl-CoA hydroxylase-interacting protein-like OS=Rattus norvegicus OX=10116 GN=Phyhipl PE=1 SV=2,1,1,0.01,0.01,0.01,
+Large ribosomal subunit protein uL11 OS=Rattus norvegicus OX=10116 GN=Rpl12 PE=2 SV=1,0.789,0.813,0.59,0.939,0.898,1.046
+Protein phosphatase 1 regulatory subunit 7 OS=Rattus norvegicus OX=10116 GN=Ppp1r7 PE=1 SV=1,10.266,100,1,12.439,1,8.417
+Proteasome subunit beta type-4 OS=Rattus norvegicus OX=10116 GN=Psmb4 PE=1 SV=2,0.826,0.615,0.01,0.05,0.01,1
+Synaptogyrin-1 OS=Rattus norvegicus OX=10116 GN=Syngr1 PE=1 SV=1,0.376,0.594,0.484,0.474,0.576,0.824
+Heterogeneous nuclear ribonucleoprotein C OS=Rattus norvegicus OX=10116 GN=Hnrnpc PE=1 SV=2,0.488,0.322,0.613,0.668,0.944,0.836
+Jupiter microtubule associated homolog 1 OS=Rattus norvegicus OX=10116 GN=Jpt1 PE=1 SV=3,7.329,0.273,0.08,0.068,0.119,1
+Thioredoxin-like protein 1 OS=Rattus norvegicus OX=10116 GN=Txnl1 PE=1 SV=3,0.345,0.427,0.101,6.587,1,9.85
+Protein disulfide-isomerase OS=Rattus norvegicus OX=10116 GN=P4hb PE=1 SV=2,0.883,0.652,0.471,0.824,0.916,0.95
+"Cytochrome c oxidase subunit 7B, mitochondrial OS=Rattus norvegicus OX=10116 GN=Cox7b PE=1 SV=3",0.635,0.486,0.917,0.524,0.672,0.871
+Casein kinase II subunit alpha OS=Rattus norvegicus OX=10116 GN=Csnk2a1 PE=1 SV=2,0.01,,,,,
+AP-1 complex subunit beta-1 OS=Rattus norvegicus OX=10116 GN=Ap1b1 PE=1 SV=1,0.01,0.01,1,1,1,1.103
+Ferritin heavy chain OS=Rattus norvegicus OX=10116 GN=Fth1 PE=1 SV=3,0.858,0.873,1.22,1.054,1.108,1.038
+"Glycogen phosphorylase, liver form OS=Rattus norvegicus OX=10116 GN=Pygl PE=1 SV=5",0.01,0.01,1,0.302,1,1
+Ribose-phosphate pyrophosphokinase 1 OS=Rattus norvegicus OX=10116 GN=Prps1 PE=1 SV=2,0.402,6.809,100,4.657,14.711,1.616
+Polyadenylate-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Pabpc1 PE=1 SV=1,0.296,0.816,0.864,0.495,0.862,0.527
+"Solute carrier family 2, facilitated glucose transporter member 3 OS=Rattus norvegicus OX=10116 GN=Slc2a3 PE=1 SV=1",0.364,0.679,0.13,0.229,0.15,7.715
+Annexin A2 OS=Rattus norvegicus OX=10116 GN=Anxa2 PE=1 SV=2,1.345,1.478,0.664,1.033,0.44,1.322
+UMP-CMP kinase OS=Rattus norvegicus OX=10116 GN=Cmpk1 PE=1 SV=2,0.292,1.135,0.01,0.49,1,1
+Neutral cholesterol ester hydrolase 1 OS=Rattus norvegicus OX=10116 GN=Nceh1 PE=1 SV=1,0.01,0.01,1,0.01,1,0.01
+"3-hydroxyisobutyrate dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Hibadh PE=1 SV=3",0.01,0.01,1,0.398,1,1
+"Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial OS=Rattus norvegicus OX=10116 GN=Aldh6a1 PE=1 SV=1",0.24,100,1,1,1,0.573
+4-trimethylaminobutyraldehyde dehydrogenase OS=Rattus norvegicus OX=10116 GN=Aldh9a1 PE=1 SV=1,0.972,1.022,0.282,0.085,0.341,0.01
+Alpha-internexin OS=Rattus norvegicus OX=10116 GN=Ina PE=1 SV=2,1.267,0.833,0.01,0.376,0.01,100
+Septin-8 OS=Rattus norvegicus OX=10116 GN=Septin8 PE=1 SV=1,0.586,0.633,0.152,0.01,1,0.01
+Protein kinase C gamma type OS=Rattus norvegicus OX=10116 GN=Prkcg PE=1 SV=1,0.47,0.768,0.855,4.701,9.387,0.826
+Bifunctional purine biosynthesis protein ATIC OS=Rattus norvegicus OX=10116 GN=Atic PE=1 SV=2,0.01,0.01,1,0.264,1,1
+Plasma membrane calcium-transporting ATPase 3 OS=Rattus norvegicus OX=10116 GN=Atp2b3 PE=1 SV=2,,,,,,
+Myelin-associated glycoprotein OS=Rattus norvegicus OX=10116 GN=Mag PE=1 SV=1,9.797,0.559,0.721,0.397,0.574,0.534
+Cathepsin D OS=Rattus norvegicus OX=10116 GN=Ctsd PE=1 SV=1,0.651,0.951,0.923,8.086,4.251,1.377
+Protein tweety homolog 1 OS=Rattus norvegicus OX=10116 GN=Ttyh1 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+Serine protease inhibitor A3N OS=Rattus norvegicus OX=10116 GN=Serpina3n PE=1 SV=3,12.278,18.794,17.777,100,100,0.744
+NADH-cytochrome b5 reductase 3 OS=Rattus norvegicus OX=10116 GN=Cyb5r3 PE=1 SV=2,0.28,6.341,1,1,1,0.695
+Arginase-1 OS=Rattus norvegicus OX=10116 GN=Arg1 PE=1 SV=2,9.388,0.722,0.01,0.191,0.01,100
+Large ribosomal subunit protein eL37 OS=Rattus norvegicus OX=10116 GN=Rpl37 PE=1 SV=2,,,100,,100,0.01
+Na(+)/H(+) exchange regulatory cofactor NHE-RF1 OS=Rattus norvegicus OX=10116 GN=Nherf1 PE=1 SV=3,2.149,7.619,1,0.637,0.161,7.323
+Annexin A1 OS=Rattus norvegicus OX=10116 GN=Anxa1 PE=1 SV=2,3.027,2.048,0.139,2.458,0.106,8.892
+Actin-related protein 2/3 complex subunit 1A OS=Rattus norvegicus OX=10116 GN=Arpc1a PE=2 SV=1,0.419,0.549,0.645,0.453,0.882,0.54
+Cathepsin B OS=Rattus norvegicus OX=10116 GN=Ctsb PE=1 SV=2,0.999,9.111,0.01,0.317,0.01,100
+Serine/threonine-protein phosphatase PP1-alpha catalytic subunit OS=Rattus norvegicus OX=10116 GN=Ppp1ca PE=1 SV=1,5.762,8.627,9.479,0.06,1.063,0.072
+Voltage-dependent calcium channel subunit alpha-2/delta-1 OS=Rattus norvegicus OX=10116 GN=Cacna2d1 PE=1 SV=1,0.457,1.135,1.69,0.664,0.944,0.828
+Large ribosomal subunit protein eL6 OS=Rattus norvegicus OX=10116 GN=Rpl6 PE=1 SV=5,0.127,1,8.434,0.909,1.521,0.61
+Glutathione S-transferase alpha-4 OS=Rattus norvegicus OX=10116 GN=Gsta4 PE=1 SV=2,0.157,1,1,0.47,1,1
+Protein S100-A6 OS=Rattus norvegicus OX=10116 GN=S100a6 PE=1 SV=3,1.666,0.83,1.222,1.836,2.26,0.812
+Myelin-oligodendrocyte glycoprotein OS=Rattus norvegicus OX=10116 GN=Mog PE=1 SV=1,0.54,0.551,1.164,0.538,0.852,0.55
+Small ribosomal subunit protein uS19 OS=Rattus norvegicus OX=10116 GN=Rps15 PE=1 SV=2,0.046,0.061,1.374,0.099,1.756,0.066
+6-phosphogluconolactonase OS=Rattus norvegicus OX=10116 GN=Pgls PE=1 SV=1,0.01,0.01,1,0.641,1,1
+"Ornithine aminotransferase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Oat PE=1 SV=1",0.226,0.454,1,0.255,1,1
+Endoplasmin OS=Rattus norvegicus OX=10116 GN=Hsp90b1 PE=1 SV=2,0.066,1,1,0.254,0.101,8.141
+Drebrin-like protein OS=Rattus norvegicus OX=10116 GN=Dbnl PE=1 SV=1,5.721,0.4,0.067,0.067,0.074,1
+C-reactive protein OS=Rattus norvegicus OX=10116 GN=Crp PE=1 SV=1,3.36,1.116,1.377,22.615,13.055,1.497
+Neuronal-specific septin-3 OS=Rattus norvegicus OX=10116 GN=Septin3 PE=1 SV=2,0.286,0.526,0.175,0.407,1,1
+"Elongation factor Tu, mitochondrial OS=Rattus norvegicus OX=10116 GN=Tufm PE=1 SV=1",0.471,0.433,0.849,1.012,1.666,0.607
+Sodium/potassium-transporting ATPase subunit beta-2 OS=Rattus norvegicus OX=10116 GN=Atp1b2 PE=1 SV=1,0.67,0.785,1.027,0.441,0.652,0.569
+Large ribosomal subunit protein uL10 OS=Rattus norvegicus OX=10116 GN=Rplp0 PE=1 SV=2,5.09,0.632,0.826,1.406,1.697,0.829
+Cell adhesion molecule 4 OS=Rattus norvegicus OX=10116 GN=Cadm4 PE=1 SV=1,0.688,0.659,0.16,0.512,0.115,7.61
+Clusterin OS=Rattus norvegicus OX=10116 GN=Clu PE=1 SV=2,0.426,0.619,0.671,0.61,1.136,0.251
+Protein CDV3 homolog OS=Rattus norvegicus OX=10116 GN=Cdv3 PE=1 SV=1,0.84,0.586,0.932,0.961,1.234,0.846
+CD81 antigen OS=Rattus norvegicus OX=10116 GN=Cd81 PE=1 SV=1,,,,,,
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2 OS=Rattus norvegicus OX=10116 GN=Atp2a2 PE=1 SV=1,0.432,0.796,0.128,0.068,0.16,1
+Enolase-phosphatase E1 OS=Rattus norvegicus OX=10116 GN=Enoph1 PE=2 SV=1,0.01,,,0.01,0.01,
+Protein disulfide-isomerase A6 OS=Rattus norvegicus OX=10116 GN=Pdia6 PE=1 SV=2,0.072,0.059,0.095,0.304,1,1
+Catenin beta-1 OS=Rattus norvegicus OX=10116 GN=Ctnnb1 PE=1 SV=1,1.039,0.692,1.501,1.205,1.868,0.645
+Proteasome subunit alpha type-5 OS=Rattus norvegicus OX=10116 GN=Psma5 PE=1 SV=1,0.524,0.498,0.149,5.055,1,6.957
+S-adenosylhomocysteine hydrolase-like protein 1 OS=Rattus norvegicus OX=10116 GN=Ahcyl1 PE=1 SV=2,0.689,1.077,0.941,0.795,0.913,0.45
+Leucine-rich glioma-inactivated protein 1 OS=Rattus norvegicus OX=10116 GN=Lgi1 PE=1 SV=1,0.338,0.675,0.13,0.01,1,0.01
+Vesicle-associated membrane protein-associated protein B OS=Rattus norvegicus OX=10116 GN=Vapb PE=1 SV=3,0.217,0.204,0.544,0.473,0.788,0.6
+Cytosol aminopeptidase OS=Rattus norvegicus OX=10116 GN=Lap3 PE=1 SV=1,0.77,0.424,0.909,0.758,1.196,0.921
+cAMP-dependent protein kinase catalytic subunit alpha OS=Rattus norvegicus OX=10116 GN=Prkaca PE=1 SV=2,0.961,0.87,0.905,0.707,1.346,0.525
+cAMP-dependent protein kinase catalytic subunit beta OS=Rattus norvegicus OX=10116 GN=Prkacb PE=1 SV=2,0.01,,,0.01,0.01,
+Large ribosomal subunit protein uL5 OS=Rattus norvegicus OX=10116 GN=Rpl11 PE=1 SV=2,,,,,,
+Small ribosomal subunit protein uS5 OS=Rattus norvegicus OX=10116 GN=Rps2 PE=1 SV=1,0.861,0.737,0.158,0.06,0.262,1
+Proteasome subunit beta type-3 OS=Rattus norvegicus OX=10116 GN=Psmb3 PE=1 SV=1,6.122,8.564,1,0.311,1,1
+Mitochondrial import inner membrane translocase subunit Tim10 OS=Rattus norvegicus OX=10116 GN=Timm10 PE=3 SV=1,1.03,0.777,1.444,0.797,1.525,0.522
+Ceruloplasmin OS=Rattus norvegicus OX=10116 GN=Cp PE=1 SV=3,1.333,0.799,1.081,1.692,0.89,0.496
+Microtubule-associated protein RP/EB family member 2 OS=Rattus norvegicus OX=10116 GN=Mapre2 PE=1 SV=1,0.495,0.864,0.189,0.821,0.198,6.9
+Neurocan core protein OS=Rattus norvegicus OX=10116 GN=Ncan PE=1 SV=1,0.522,0.683,0.932,0.561,1.076,0.601
+"Glycerol-3-phosphate dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Gpd2 PE=1 SV=1",0.339,5.231,1,0.737,0.153,7.146
+Large ribosomal subunit protein eL42 OS=Rattus norvegicus OX=10116 GN=Rpl36a PE=1 SV=2,0.576,0.535,1.649,0.866,2.001,0.433
+Proteasome subunit beta type-2 OS=Rattus norvegicus OX=10116 GN=Psmb2 PE=1 SV=1,6.197,8.108,1,0.795,0.177,7.677
+ATP-citrate synthase OS=Rattus norvegicus OX=10116 GN=Acly PE=1 SV=1,0.187,5.243,1,0.176,0.249,5.736
+MAGUK p55 subfamily member 2 OS=Rattus norvegicus OX=10116 GN=Mpp2 PE=1 SV=2,0.01,0.01,1,0.01,0.102,0.01
+Small ribosomal subunit protein eS17 OS=Rattus norvegicus OX=10116 GN=Rps17 PE=1 SV=3,0.01,0.01,9.488,1.024,1.428,0.717
+"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1 OS=Rattus norvegicus OX=10116 GN=Plcb1 PE=1 SV=1",0.439,8.023,1,0.01,1,0.01
+Guanine nucleotide-binding protein subunit beta-5 OS=Rattus norvegicus OX=10116 GN=Gnb5 PE=2 SV=1,0.01,0.01,1,0.01,1,0.01
+"Keratin, type I cytoskeletal 24 OS=Rattus norvegicus OX=10116 GN=Krt24 PE=3 SV=1",0.98,1.604,1.328,0.759,0.553,1.373
+Protein lin-7 homolog A OS=Rattus norvegicus OX=10116 GN=Lin7a PE=1 SV=2,5.981,2.163,0.497,2.401,0.516,4.653
+Small glutamine-rich tetratricopeptide repeat-containing protein alpha OS=Rattus norvegicus OX=10116 GN=Sgta PE=1 SV=1,0.776,0.809,1.397,1.239,1.768,0.618
+"Acetyl-CoA acetyltransferase, cytosolic OS=Rattus norvegicus OX=10116 GN=Acat2 PE=1 SV=1",0.738,0.771,0.252,0.056,0.226,1
+Synaptic vesicle glycoprotein 2A OS=Rattus norvegicus OX=10116 GN=Sv2a PE=1 SV=2,0.576,0.68,0.794,0.559,0.86,0.753
+Guanine nucleotide-binding protein subunit alpha-11 OS=Rattus norvegicus OX=10116 GN=Gna11 PE=2 SV=1,,,,,,
+Adenine phosphoribosyltransferase OS=Rattus norvegicus OX=10116 GN=Aprt PE=1 SV=1,0.317,0.563,0.809,6.133,5.294,0.915
+CD59 glycoprotein OS=Rattus norvegicus OX=10116 GN=Cd59 PE=1 SV=2,0.368,7.231,2.973,1,1,0.317
+"Alanine--tRNA ligase, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Aars1 PE=1 SV=3",1.172,0.538,1.329,0.634,1.398,0.453
+SERPINE1 mRNA-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Serbp1 PE=1 SV=2,0.462,0.643,0.992,1.021,1.026,0.996
+Sodium-dependent neutral amino acid transporter SLC6A17 OS=Rattus norvegicus OX=10116 GN=Slc6a17 PE=1 SV=1,0.473,0.58,,0.01,2.16,0.01
+"RNA-binding motif protein, X chromosome OS=Rattus norvegicus OX=10116 GN=Rbmx PE=1 SV=1",0.066,0.094,1.588,0.077,1.514,0.07
+Small ribosomal subunit protein uS8 OS=Rattus norvegicus OX=10116 GN=Rps15a PE=1 SV=2,1,0.07,0.12,1,1,0.975
+Large ribosomal subunit protein uL14m OS=Rattus norvegicus OX=10116 GN=Mrpl14 PE=1 SV=2,0.057,0.253,1,1,1,0.349
+Heterogeneous nuclear ribonucleoprotein U OS=Rattus norvegicus OX=10116 GN=Hnrnpu PE=1 SV=1,0.436,1.006,0.124,1.016,0.113,10.752
+Fetuin-B OS=Rattus norvegicus OX=10116 GN=Fetub PE=2 SV=2,100,1.149,0.165,31.329,1,7.273
+Large ribosomal subunit protein eL15 OS=Rattus norvegicus OX=10116 GN=Rpl15 PE=1 SV=2,0.133,0.174,2.819,0.909,1.413,0.725
+Prenylcysteine oxidase 1 OS=Rattus norvegicus OX=10116 GN=Pcyox1 PE=1 SV=1,,,,,,
+Microtubule-associated protein 1B OS=Rattus norvegicus OX=10116 GN=Map1b PE=1 SV=3,0.348,7.754,1,0.91,0.133,8.25
+Large ribosomal subunit protein eL27 OS=Rattus norvegicus OX=10116 GN=Rpl27 PE=2 SV=2,0.069,100,100,1,1,0.288
+Proteasome subunit alpha type-4 OS=Rattus norvegicus OX=10116 GN=Psma4 PE=1 SV=1,0.613,6.679,4.64,0.708,0.719,1.117
+Non-POU domain-containing octamer-binding protein OS=Rattus norvegicus OX=10116 GN=Nono PE=1 SV=3,0.552,0.543,0.065,,1,1
+Septin-11 OS=Rattus norvegicus OX=10116 GN=Septin11 PE=1 SV=1,0.01,0.01,1,,100,0.01
+T-complex protein 1 subunit delta OS=Rattus norvegicus OX=10116 GN=Cct4 PE=1 SV=3,0.264,0.362,0.097,4.244,1,100
+"Hydroxyacylglutathione hydrolase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Hagh PE=1 SV=2",0.613,0.358,0.599,0.667,0.748,0.958
+Amine oxidase [flavin-containing] A OS=Rattus norvegicus OX=10116 GN=Maoa PE=1 SV=1,0.488,0.7,0.01,4.56,1,100
+Neudesin OS=Rattus norvegicus OX=10116 GN=Nenf PE=1 SV=1,,,,,,
+"ES1 protein homolog, mitochondrial OS=Rattus norvegicus OX=10116 PE=1 SV=2",0.5,0.474,0.387,1.212,0.836,0.854
+"Branched-chain-amino-acid aminotransferase, cytosolic OS=Rattus norvegicus OX=10116 GN=Bcat1 PE=1 SV=1",0.41,7.838,1,0.266,1,1
+Obg-like ATPase 1 OS=Rattus norvegicus OX=10116 GN=Ola1 PE=2 SV=1,0.079,0.099,0.01,0.22,1,1
+Nuclear transport factor 2 OS=Rattus norvegicus OX=10116 GN=Nutf2 PE=1 SV=1,0.065,0.085,0.039,0.778,0.043,13.981
+Kininogen-1 OS=Rattus norvegicus OX=10116 GN=Kng1 PE=2 SV=1,,,100,100,100,1
+Vesicular glutamate transporter 1 OS=Rattus norvegicus OX=10116 GN=Slc17a7 PE=1 SV=1,0.437,0.769,0.583,0.446,0.575,1.171
+"2-oxoglutarate dehydrogenase-like, mitochondrial OS=Rattus norvegicus OX=10116 GN=Ogdhl PE=1 SV=2",,,,,,
+Synaptojanin-1 OS=Rattus norvegicus OX=10116 GN=Synj1 PE=1 SV=3,0.584,0.529,1.907,0.921,2.052,1.123
+Synaptic vesicle glycoprotein 2B OS=Rattus norvegicus OX=10116 GN=Sv2b PE=1 SV=1,0.877,0.649,0.455,0.628,0.66,1.007
+Adaptin ear-binding coat-associated protein 1 OS=Rattus norvegicus OX=10116 GN=Necap1 PE=1 SV=1,0.01,0.01,0.01,,,
+Small ribosomal subunit protein uS2 OS=Rattus norvegicus OX=10116 GN=Rpsa PE=1 SV=3,0.01,,,,,
+Lysozyme C-1 OS=Rattus norvegicus OX=10116 GN=Lyz1 PE=1 SV=2,1.219,0.772,0.152,0.942,0.156,6.052
+Potassium-transporting ATPase alpha chain 2 OS=Rattus norvegicus OX=10116 GN=Atp12a PE=1 SV=1,,,,,,
+Large ribosomal subunit protein uL15 OS=Rattus norvegicus OX=10116 GN=Rpl27a PE=1 SV=3,0.051,100,,,,
+S-adenosylmethionine synthase isoform type-2 OS=Rattus norvegicus OX=10116 GN=Mat2a PE=1 SV=1,0.466,0.714,1,7.495,1,6.481
+ADP-ribosylation factor-like protein 3 OS=Rattus norvegicus OX=10116 GN=Arl3 PE=1 SV=2,0.051,0.696,1,0.01,1,0.01
+"Pyruvate carboxylase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Pc PE=1 SV=2",0.075,0.056,0.464,0.797,0.622,1.359
+Galectin-3-binding protein OS=Rattus norvegicus OX=10116 GN=Lgals3bp PE=1 SV=2,,,,,,
+Aminopeptidase B OS=Rattus norvegicus OX=10116 GN=Rnpep PE=1 SV=2,0.574,0.71,1.132,0.592,1.259,0.47
+"6-phosphogluconate dehydrogenase, decarboxylating OS=Rattus norvegicus OX=10116 GN=Pgd PE=1 SV=1",0.663,0.785,0.01,0.868,0.01,100
+Prosaposin OS=Rattus norvegicus OX=10116 GN=Psap PE=1 SV=1,0.638,0.553,0.166,3.172,1,8.764
+Alpha-aminoadipic semialdehyde dehydrogenase OS=Rattus norvegicus OX=10116 GN=Aldh7a1 PE=1 SV=2,0.26,0.374,0.01,0.469,0.01,100
+A-kinase anchor protein 5 OS=Rattus norvegicus OX=10116 GN=Akap5 PE=1 SV=2,0.809,0.613,1.158,0.01,11.143,0.01
+GTP-binding protein Rit2 OS=Rattus norvegicus OX=10116 GN=Rit2 PE=1 SV=1,,,,,,
+Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform OS=Rattus norvegicus OX=10116 GN=Ppp2r2d PE=2 SV=1,1,1,0.01,0.01,0.01,
+Galectin-5 OS=Rattus norvegicus OX=10116 GN=Lgals5 PE=1 SV=2,100,1.076,1.391,6.782,11.208,0.501
+Vacuolar protein sorting-associated protein 29 OS=Rattus norvegicus OX=10116 GN=Vps29 PE=1 SV=2,0.813,0.729,1.283,0.848,1.566,0.541
+Apolipoprotein A-I OS=Rattus norvegicus OX=10116 GN=Apoa1 PE=1 SV=2,14.489,10.58,2.543,21.14,3.979,8.816
+26S proteasome non-ATPase regulatory subunit 9 OS=Rattus norvegicus OX=10116 GN=Psmd9 PE=1 SV=1,0.388,6.109,0.01,0.262,0.01,100
+Syntaxin-7 OS=Rattus norvegicus OX=10116 GN=Stx7 PE=1 SV=4,0.01,0.01,0.01,0.01,0.01,
+Alcohol dehydrogenase class-3 OS=Rattus norvegicus OX=10116 GN=Adh5 PE=1 SV=2,0.39,4.067,7.596,0.185,100,0.058
+Ras-related protein Rab-18 OS=Rattus norvegicus OX=10116 GN=Rab18 PE=2 SV=1,0.545,0.506,0.446,0.483,0.809,0.596
+Proteasome subunit beta type-5 OS=Rattus norvegicus OX=10116 GN=Psmb5 PE=1 SV=3,0.429,1.085,0.514,1.031,0.401,2.573
+Receptor expression-enhancing protein 5 OS=Rattus norvegicus OX=10116 GN=Reep5 PE=1 SV=1,0.435,0.083,0.133,1.079,0.204,8.968
+Large ribosomal subunit protein uL6 OS=Rattus norvegicus OX=10116 GN=Rpl9 PE=1 SV=1,0.415,0.583,0.112,1.384,0.104,9.596
+rRNA 2'-O-methyltransferase fibrillarin OS=Rattus norvegicus OX=10116 GN=Fbl PE=1 SV=2,0.89,0.796,0.246,1.285,0.326,3.945
+Dipeptidyl aminopeptidase-like protein 6 OS=Rattus norvegicus OX=10116 GN=Dpp6 PE=1 SV=1,0.01,0.01,0.01,,,
+Sodium/calcium exchanger 2 OS=Rattus norvegicus OX=10116 GN=Slc8a2 PE=1 SV=1,0.01,0.01,0.01,4.436,0.01,100
+T-complex protein 1 subunit alpha OS=Rattus norvegicus OX=10116 GN=Tcp1 PE=1 SV=1,0.452,0.664,1.542,0.895,1.023,0.509
+Transmembrane emp24 domain-containing protein 10 OS=Rattus norvegicus OX=10116 GN=Tmed10 PE=1 SV=2,4.841,7.191,1,0.204,1,1
+Oxidation resistance protein 1 OS=Rattus norvegicus OX=10116 GN=Oxr1 PE=1 SV=3,0.298,0.403,1,0.01,1,0.01
+Neuronal membrane glycoprotein M6-b OS=Rattus norvegicus OX=10116 GN=Gpm6b PE=1 SV=1,0.768,1.017,0.01,0.358,0.01,100
+Proline-rich transmembrane protein 1 OS=Rattus norvegicus OX=10116 GN=Prrt1 PE=1 SV=2,,,,,,
+Palmitoyl-protein thioesterase 1 OS=Rattus norvegicus OX=10116 GN=Ppt1 PE=1 SV=1,0.01,0.01,0.01,0.553,0.01,100
+GTP-binding protein Rheb OS=Rattus norvegicus OX=10116 GN=Rheb PE=1 SV=1,0.01,0.01,1,0.651,0.122,7.379
+Protein phosphatase 1 regulatory subunit 1B OS=Rattus norvegicus OX=10116 GN=Ppp1r1b PE=1 SV=1,0.047,0.061,1.264,0.01,4.349,0.01
+Beta-adducin OS=Rattus norvegicus OX=10116 GN=Add2 PE=1 SV=4,0.056,0.965,0.01,0.01,0.01,
+Proteasome activator complex subunit 1 OS=Rattus norvegicus OX=10116 GN=Psme1 PE=2 SV=1,,,,,,
+Amine oxidase [flavin-containing] B OS=Rattus norvegicus OX=10116 GN=Maob PE=1 SV=3,8.635,7.494,0.01,0.375,0.01,100
+Phosphatidylinositol 5-phosphate 4-kinase type-2 beta OS=Rattus norvegicus OX=10116 GN=Pip4k2b PE=1 SV=1,0.056,0.71,1,0.311,1,1
+Toll-interacting protein OS=Rattus norvegicus OX=10116 GN=Tollip PE=1 SV=1,0.01,0.01,0.01,,,
+Electron transfer flavoprotein subunit beta OS=Rattus norvegicus OX=10116 GN=Etfb PE=1 SV=3,1,1,0.01,100,,100
+Lambda-crystallin homolog OS=Rattus norvegicus OX=10116 GN=Cryl1 PE=1 SV=3,1,0.232,0.099,0.01,0.823,0.01
+Probable proton-coupled zinc antiporter SLC30A3 OS=Rattus norvegicus OX=10116 GN=Slc30a3 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+Electrogenic sodium bicarbonate cotransporter 1 OS=Rattus norvegicus OX=10116 GN=Slc4a4 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+MOB kinase activator 1A OS=Rattus norvegicus OX=10116 GN=Mob1a PE=2 SV=3,100,100,,,,
+Neural cell adhesion molecule L1 OS=Rattus norvegicus OX=10116 GN=L1cam PE=1 SV=3,0.991,0.837,1.167,0.16,0.791,0.848
+3-hydroxyacyl-CoA dehydrogenase type-2 OS=Rattus norvegicus OX=10116 GN=Hsd17b10 PE=1 SV=3,0.01,0.01,0.01,0.01,0.01,
+Elongation factor 1-gamma OS=Rattus norvegicus OX=10116 GN=Eef1g PE=2 SV=3,0.162,1.315,1.739,0.637,1.443,0.441
+5'-3' exonuclease PLD3 OS=Rattus norvegicus OX=10116 GN=Pld3 PE=1 SV=1,0.01,0.01,1,0.01,1,0.01
+Flotillin-2 OS=Rattus norvegicus OX=10116 GN=Flot2 PE=1 SV=1,,,,,,
+Biliverdin reductase A OS=Rattus norvegicus OX=10116 GN=Blvra PE=1 SV=1,,,,,,
+Reticulon-4 OS=Rattus norvegicus OX=10116 GN=Rtn4 PE=1 SV=1,0.815,0.329,1.566,0.978,2.416,0.48
+DnaJ homolog subfamily A member 2 OS=Rattus norvegicus OX=10116 GN=Dnaja2 PE=1 SV=1,0.218,0.495,0.79,0.84,0.844,0.871
+Proteasome subunit alpha type-7 OS=Rattus norvegicus OX=10116 GN=Psma7 PE=1 SV=1,0.473,0.657,0.173,0.933,0.185,6.159
+"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic OS=Rattus norvegicus OX=10116 GN=Gpd1 PE=1 SV=4",0.938,0.548,0.655,0.983,1.008,0.975
+"Aldehyde dehydrogenase X, mitochondrial OS=Rattus norvegicus OX=10116 GN=Aldh1b1 PE=1 SV=1",1,1,1,,100,0.01
+Putative hydrolase DDAH2 OS=Rattus norvegicus OX=10116 GN=Ddah2 PE=1 SV=1,1.178,0.679,1.096,1.116,1.679,0.665
+Carboxylesterase 1C OS=Rattus norvegicus OX=10116 GN=Ces1c PE=1 SV=3,0.147,1.254,7.765,4.007,11.628,0.959
+Catalase OS=Rattus norvegicus OX=10116 GN=Cat PE=1 SV=3,1.317,1.335,1.545,0.629,0.998,0.881
+Aminoacylase-1A OS=Rattus norvegicus OX=10116 GN=Acy1a PE=1 SV=1,0.587,6.422,1,0.383,1,1
+Mitochondrial import receptor subunit TOM70 OS=Rattus norvegicus OX=10116 GN=Tomm70 PE=1 SV=1,1.362,1.742,0.048,1.197,0.063,31.996
+UV excision repair protein RAD23 homolog B OS=Rattus norvegicus OX=10116 GN=Rad23b PE=1 SV=1,5.464,6.697,1,0.567,1,1
+Sodium- and chloride-dependent GABA transporter 3 OS=Rattus norvegicus OX=10116 GN=Slc6a11 PE=1 SV=1,0.713,0.629,0.684,11.007,7.145,0.906
+Rho family-interacting cell polarization regulator 2 OS=Rattus norvegicus OX=10116 GN=Ripor2 PE=1 SV=1,1.406,1.242,1.371,2.978,3.483,0.94
+Large ribosomal subunit protein uL13 OS=Rattus norvegicus OX=10116 GN=Rpl13a PE=1 SV=2,0.477,6.181,1,0.748,0.139,7.293
+Nucleolin OS=Rattus norvegicus OX=10116 GN=Ncl PE=1 SV=3,0.084,1,1,0.515,1,1
+Xaa-Pro dipeptidase OS=Rattus norvegicus OX=10116 GN=Pepd PE=2 SV=1,0.01,0.01,1,,100,0.01
+ADP-ribosylation factor GTPase-activating protein 1 OS=Rattus norvegicus OX=10116 GN=Arfgap1 PE=1 SV=1,1.015,0.711,0.917,0.854,1.281,0.733
+Gelsolin OS=Rattus norvegicus OX=10116 GN=Gsn PE=1 SV=1,1.281,0.776,0.195,1.357,0.206,6.296
+Transcriptional regulator protein Pur-beta OS=Rattus norvegicus OX=10116 GN=Purb PE=1 SV=3,0.451,0.793,0.159,0.798,0.177,7.286
+MICOS complex subunit Mic60 (Fragment) OS=Rattus norvegicus OX=10116 GN=Immt PE=1 SV=1,0.01,0.01,1,,1,1
+Large ribosomal subunit protein uL16 OS=Rattus norvegicus OX=10116 GN=Rpl10 PE=1 SV=3,1,1,1,0.069,0.157,1
+Small ribosomal subunit protein uS3 OS=Rattus norvegicus OX=10116 GN=Rps3 PE=1 SV=1,1,0.096,0.01,,,
+26S proteasome regulatory subunit 6A OS=Rattus norvegicus OX=10116 GN=Psmc3 PE=1 SV=1,,,,,,
+Neuronal pentraxin receptor OS=Rattus norvegicus OX=10116 GN=Nptxr PE=1 SV=1,0.972,0.843,0.85,0.429,7.59,0.086
+Omega-amidase NIT2 OS=Rattus norvegicus OX=10116 GN=Nit2 PE=1 SV=1,,,,,,
+Protein kinase C beta type OS=Rattus norvegicus OX=10116 GN=Prkcb PE=1 SV=3,0.081,0.126,0.053,0.731,0.051,9.212
+Sodium- and chloride-dependent GABA transporter 1 OS=Rattus norvegicus OX=10116 GN=Slc6a1 PE=1 SV=1,4.228,100,100,0.494,0.052,10.213
+Neuronal pentraxin-1 OS=Rattus norvegicus OX=10116 GN=Nptx1 PE=1 SV=1,5.199,7.909,1,0.474,1,1
+Myosin-10 OS=Rattus norvegicus OX=10116 GN=Myh10 PE=1 SV=1,0.01,0.01,0.01,,,
+Fibrinogen gamma chain OS=Rattus norvegicus OX=10116 GN=Fgg PE=1 SV=3,100,100,100,100,100,0.341
+Guanine nucleotide-binding protein G(s) subunit alpha isoforms XLas OS=Rattus norvegicus OX=10116 GN=Gnas PE=1 SV=3,0.01,,,0.01,0.01,
+Inactive dipeptidyl peptidase 10 OS=Rattus norvegicus OX=10116 GN=Dpp10 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+Glutamate decarboxylase 2 OS=Rattus norvegicus OX=10116 GN=Gad2 PE=1 SV=1,5.622,7.836,1,0.236,1,1
+Vesicular inhibitory amino acid transporter OS=Rattus norvegicus OX=10116 GN=Slc32a1 PE=1 SV=1,0.7,2.399,0.169,1,1,0.678
+26S proteasome regulatory subunit 8 OS=Rattus norvegicus OX=10116 GN=Psmc5 PE=1 SV=1,0.344,100,,0.01,0.01,
+"Isocitrate dehydrogenase [NADP], mitochondrial OS=Rattus norvegicus OX=10116 GN=Idh2 PE=1 SV=2",0.443,0.637,1.265,0.049,2.252,0.044
+Nucleophosmin OS=Rattus norvegicus OX=10116 GN=Npm1 PE=1 SV=1,0.992,0.644,0.896,0.726,0.766,0.948
+Synaptoporin OS=Rattus norvegicus OX=10116 GN=Synpr PE=1 SV=2,0.042,0.294,1,0.01,1,0.01
+Copine-1 OS=Rattus norvegicus OX=10116 GN=Cpne1 PE=1 SV=1,0.01,,,0.01,0.01,
+Serine/threonine-protein kinase PAK 3 OS=Rattus norvegicus OX=10116 GN=Pak3 PE=1 SV=1,0.508,0.215,0.814,1.077,3.151,0.342
+"D-beta-hydroxybutyrate dehydrogenase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Bdh1 PE=1 SV=2",0.082,1,0.01,0.88,0.01,100
+Metabotropic glutamate receptor 2 OS=Rattus norvegicus OX=10116 GN=Grm2 PE=1 SV=1,0.01,,,0.01,0.01,
+ELAV-like protein 4 OS=Rattus norvegicus OX=10116 GN=Elavl4 PE=1 SV=2,,,,,,
+Small ribosomal subunit protein RACK1 OS=Rattus norvegicus OX=10116 GN=Rack1 PE=1 SV=3,0.01,,100,0.01,1,0.01
+Glutathione reductase (Fragment) OS=Rattus norvegicus OX=10116 GN=Gsr PE=2 SV=2,0.795,0.337,0.075,0.01,0.12,0.01
+Annexin A6 OS=Rattus norvegicus OX=10116 GN=Anxa6 PE=1 SV=2,0.316,100,100,0.01,1,0.01
+NADP-dependent malic enzyme OS=Rattus norvegicus OX=10116 GN=Me1 PE=1 SV=2,,,,,,
+Glutathione S-transferase LANCL1 OS=Rattus norvegicus OX=10116 GN=Lancl1 PE=1 SV=2,,,,,,
+Large neutral amino acids transporter small subunit 1 OS=Rattus norvegicus OX=10116 GN=Slc7a5 PE=1 SV=2,5.314,6.059,1,0.01,1,0.01
+Ezrin OS=Rattus norvegicus OX=10116 GN=Ezr PE=1 SV=3,6.463,6.807,1,1.446,0.219,7.283
+Kynurenine--oxoglutarate transaminase 3 OS=Rattus norvegicus OX=10116 GN=Kyat3 PE=2 SV=1,,,,,,
+Leukocyte surface antigen CD47 OS=Rattus norvegicus OX=10116 GN=Cd47 PE=1 SV=1,0.477,0.883,1.331,0.589,1.1,0.535
+Nucleosome assembly protein 1-like 1 OS=Rattus norvegicus OX=10116 GN=Nap1l1 PE=1 SV=1,0.01,,,2.274,0.01,100
+26S proteasome non-ATPase regulatory subunit 2 OS=Rattus norvegicus OX=10116 GN=Psmd2 PE=1 SV=1,0.054,0.41,1,0.24,1,1
+Carboxypeptidase E OS=Rattus norvegicus OX=10116 GN=Cpe PE=1 SV=1,,,,,,
+Regulator of G-protein signaling 7 OS=Rattus norvegicus OX=10116 GN=Rgs7 PE=1 SV=2,,,,,,
+Sodium-driven chloride bicarbonate exchanger OS=Rattus norvegicus OX=10116 GN=Slc4a10 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+Hypoxia up-regulated protein 1 OS=Rattus norvegicus OX=10116 GN=Hyou1 PE=1 SV=1,,,,,,
+Eukaryotic initiation factor 4A-II OS=Rattus norvegicus OX=10116 GN=Eif4a2 PE=1 SV=1,0.101,1,1,0.957,0.153,8.531
+Cell cycle control protein 50A OS=Rattus norvegicus OX=10116 GN=Tmem30a PE=1 SV=1,0.461,1.133,0.555,0.573,0.236,2.43
+Brain-specific angiogenesis inhibitor 1-associated protein 2 OS=Rattus norvegicus OX=10116 GN=Baiap2 PE=1 SV=1,,,,,,
+Lactadherin OS=Rattus norvegicus OX=10116 GN=Mfge8 PE=2 SV=1,0.696,0.923,1.033,0.636,0.872,0.73
+Thimet oligopeptidase OS=Rattus norvegicus OX=10116 GN=Thop1 PE=1 SV=4,0.01,,,,,
+Serine/threonine-protein kinase DCLK1 OS=Rattus norvegicus OX=10116 GN=Dclk1 PE=1 SV=1,0.01,0.01,0.01,,,
+N-terminal EF-hand calcium-binding protein 1 OS=Rattus norvegicus OX=10116 GN=Necab1 PE=1 SV=1,0.01,0.01,0.01,0.323,0.01,100
+Xaa-Pro aminopeptidase 1 OS=Rattus norvegicus OX=10116 GN=Xpnpep1 PE=1 SV=1,,,,,,
+Large ribosomal subunit protein uL3 OS=Rattus norvegicus OX=10116 GN=Rpl3 PE=1 SV=3,0.079,0.089,0.01,100,,100
+Serine/threonine-protein phosphatase 5 OS=Rattus norvegicus OX=10116 GN=Ppp5c PE=1 SV=1,0.01,0.01,1,0.418,1,1
+Calcium/calmodulin-dependent protein kinase kinase 1 OS=Rattus norvegicus OX=10116 GN=Camkk1 PE=1 SV=1,,,,,,
+Inter-alpha-trypsin inhibitor heavy chain H3 OS=Rattus norvegicus OX=10116 GN=Itih3 PE=2 SV=1,1.454,1.006,0.229,12.032,1,8.168
+"Electron transfer flavoprotein subunit alpha, mitochondrial OS=Rattus norvegicus OX=10116 GN=Etfa PE=1 SV=4",0.153,0.199,0.375,0.41,0.552,0.742
+Receptor-type tyrosine-protein phosphatase zeta OS=Rattus norvegicus OX=10116 GN=Ptprz1 PE=1 SV=1,0.354,0.768,1.06,0.286,0.904,0.489
+"Solute carrier family 2, facilitated glucose transporter member 1 OS=Rattus norvegicus OX=10116 GN=Slc2a1 PE=1 SV=1",0.083,1,0.01,5.158,0.01,100
+Epsin-3 OS=Rattus norvegicus OX=10116 GN=Epn3 PE=1 SV=1,0.01,0.01,0.01,0.01,0.01,
+Flotillin-1 OS=Rattus norvegicus OX=10116 GN=Flot1 PE=2 SV=2,0.447,4.938,1,100,100,6.96
+BDNF/NT-3 growth factors receptor OS=Rattus norvegicus OX=10116 GN=Ntrk2 PE=1 SV=1,,,,,,
+NADH-ubiquinone oxidoreductase chain 5 OS=Rattus norvegicus OX=10116 GN=Mt-nd5 PE=3 SV=3,0.316,0.072,0.134,0.01,1,0.01
+Cytoplasmic aconitate hydratase OS=Rattus norvegicus OX=10116 GN=Aco1 PE=1 SV=1,,,,,,
+Striatin OS=Rattus norvegicus OX=10116 GN=Strn PE=1 SV=1,,,,,,
+"Medium-chain acyl-CoA ligase ACSF2, mitochondrial OS=Rattus norvegicus OX=10116 GN=Acsf2 PE=2 SV=1",,,,,,
+Neuroligin-1 OS=Rattus norvegicus OX=10116 GN=Nlgn1 PE=1 SV=1,,,,,,
+Phosphofurin acidic cluster sorting protein 1 OS=Rattus norvegicus OX=10116 GN=Pacs1 PE=1 SV=1,0.01,0.01,1,0.01,1,0.01
+Synaptosomal-associated protein 47 OS=Rattus norvegicus OX=10116 GN=Snap47 PE=2 SV=1,7.158,1.876,1.247,35.093,22.881,1.121
+"Magnesium transporter MRS2 homolog, mitochondrial OS=Rattus norvegicus OX=10116 GN=Mrs2 PE=2 SV=1",0.127,0.148,0.421,0.39,0.573,0.68
+"Serine--tRNA ligase, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Sars1 PE=1 SV=3",0.214,0.432,1,0.206,1,1
+Heterogeneous nuclear ribonucleoprotein Q OS=Rattus norvegicus OX=10116 GN=Syncrip PE=2 SV=1,0.261,1.416,1,0.277,1,1
+"Spectrin beta chain, non-erythrocytic 2 OS=Rattus norvegicus OX=10116 GN=Sptbn2 PE=1 SV=2",0.01,0.01,0.01,,,
+Sterol carrier protein 2 OS=Rattus norvegicus OX=10116 GN=Scp2 PE=1 SV=3,0.522,0.933,1,0.01,1,0.01
+Collagen alpha-2(I) chain OS=Rattus norvegicus OX=10116 GN=Col1a2 PE=1 SV=3,0.01,,,,,
+Cytoplasmic dynein 1 intermediate chain 1 OS=Rattus norvegicus OX=10116 GN=Dync1i1 PE=1 SV=1,,,,,,
+Tripeptidyl-peptidase 2 OS=Rattus norvegicus OX=10116 GN=Tpp2 PE=2 SV=3,0.01,0.01,1,,1,1
+Tripartite motif-containing protein 3 OS=Rattus norvegicus OX=10116 GN=Trim3 PE=1 SV=1,0.24,0.684,0.828,0.912,0.881,1.036
+Sodium/potassium/calcium exchanger 2 OS=Rattus norvegicus OX=10116 GN=Slc24a2 PE=1 SV=1,0.269,0.187,0.01,1.46,0.01,100
+NADPH--cytochrome P450 reductase OS=Rattus norvegicus OX=10116 GN=Por PE=1 SV=3,,,,,,
+Calcium-dependent secretion activator 1 OS=Rattus norvegicus OX=10116 GN=Cadps PE=1 SV=1,,,,,,
+Amyloid-beta precursor protein OS=Rattus norvegicus OX=10116 GN=App PE=1 SV=2,6.818,0.931,0.01,0.273,0.01,100
+Long-chain-fatty-acid--CoA ligase 6 OS=Rattus norvegicus OX=10116 GN=Acsl6 PE=1 SV=1,0.01,,,0.01,0.01,
+Basal cell adhesion molecule OS=Rattus norvegicus OX=10116 GN=Bcam PE=2 SV=1,1.627,0.679,0.951,1.037,1.278,0.811
+Reticulon-3 OS=Rattus norvegicus OX=10116 GN=Rtn3 PE=1 SV=1,0.582,1.21,0.98,0.569,0.603,0.944
+"Dynamin-like 120 kDa protein, mitochondrial OS=Rattus norvegicus OX=10116 GN=Opa1 PE=1 SV=1",0.01,0.01,0.01,0.01,0.01,
+Microtubule-associated protein 4 OS=Rattus norvegicus OX=10116 GN=Map4 PE=1 SV=1,0.339,100,100,0.01,0.142,0.01
+Sodium/calcium exchanger 1 OS=Rattus norvegicus OX=10116 GN=Slc8a1 PE=1 SV=3,,,,,,
+Neurexin-3 OS=Rattus norvegicus OX=10116 GN=Nrxn3 PE=1 SV=1,0.01,,,0.01,0.01,
+Versican core protein (Fragment) OS=Rattus norvegicus OX=10116 GN=Vcan PE=2 SV=2,0.363,0.261,0.542,0.372,0.892,0.417
+Ribosome biogenesis protein BOP1 OS=Rattus norvegicus OX=10116 GN=Bop1 PE=1 SV=1,0.098,0.12,2.206,1.318,2.972,0.443
+Misshapen-like kinase 1 OS=Rattus norvegicus OX=10116 GN=Mink1 PE=1 SV=2,0.05,0.541,1,0.247,1,1
+Protein bassoon OS=Rattus norvegicus OX=10116 GN=Bsn PE=1 SV=3,0.617,3.418,1,3.373,1,5.54
+Metabotropic glycine receptor OS=Rattus norvegicus OX=10116 GN=Gpr158 PE=1 SV=1,0.854,0.442,0.869,1.086,1.407,0.772
+"NACHT, LRR and PYD domains-containing protein 1a allele 1 OS=Rattus norvegicus OX=10116 GN=Nlrp1a PE=1 SV=1",0.592,0.701,0.161,0.937,0.149,6.275
+Ankyrin-3 OS=Rattus norvegicus OX=10116 GN=Ank3 PE=1 SV=3,0.048,0.531,1,0.01,0.177,0.01

@@ -1,0 +1,27 @@
+Package: pcaPackage
+Title:  PCA Analysis 
+Version: 2.0.0
+Authors@R: 
+    c(person(given = "Chris",
+             family = "Babcock",
+             role = c("aut", "cre"),
+             email = "cbabcock@utexas.edu"),
+      person(given = "Maya",
+             family = "Eldani,
+             role = c("aut", "cre"),
+             email = "maya.eldani@utexas.edu"),
+             
+Description: This package is designed to analyze high-dimensional proteomics data generated from mass spectrometry by examining protein abundance across different treatment and intoxication conditions. It uses principal component analysis (PCA) to reduce the complexity of the data and highlight major patterns of variation. The package also includes functions to create scree plots for determining the number of meaningful components and to perform cluster analysis for grouping similar samples. Overall, these tools help make it easier to interpret complex proteomics datasets and identify differences between experimental conditions.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+        license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: R (>= 3.5)
+LazyData: true
+Imports: ggplot2
+Suggests: knitr, quarto
+NeedsCompilation: no
+Packaged: 2026-04-27 02:44:13 UTC; mayae
+Author: Chris Babcock, Maya Eldani
+Maintainer: Maya Eldani <maya.e19@gmail.com>
